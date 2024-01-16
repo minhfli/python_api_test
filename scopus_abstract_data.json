@@ -1,0 +1,445 @@
+{
+    "search-info": {
+        "Total": "201",
+        "itemsPerPage": "5",
+        "startIndex": "0"
+    },
+    "search-results": [
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Gateway International School"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58777680400",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121501240",
+                                "@id": "121501240"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58777680400",
+                            "ce:given-name": "Tu",
+                            "ce:indexed-name": "Tran-Thi-Thanh T.",
+                            "ce:initials": "T.",
+                            "ce:surname": "Tran-Thi-Thanh",
+                            "preferred-name": {
+                                "ce:given-name": "Tu",
+                                "ce:indexed-name": "Tran-Thi-Thanh T.",
+                                "ce:initials": "T.",
+                                "ce:surname": "Tran-Thi-Thanh"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85180440817",
+                "dc:publisher": "University of Economics and Human Sciences in Warsaw",
+                "dc:title": "Exploring the Mechanisms Underlying Firms\u2019 Intent to Adopt Circular Business Models",
+                "eid": "2-s2.0-85180440817",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85180440817",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-31",
+                "prism:doi": "10.5709/ce.1897-9254.518",
+                "prism:endingPage": "405",
+                "prism:issn": "23008814 20840845",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "389-405",
+                "prism:publicationName": "Contemporary Economics",
+                "prism:startingPage": "389",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85180440817",
+                "prism:volume": "17",
+                "source-id": "21100199108",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Haiphong",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Haiphong University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Darmstadt",
+                    "affiliation-country": "Germany",
+                    "affilname": "Technische Universit\u00e4t Darmstadt"
+                }
+            ],
+            "coredata": {
+                "article-number": "167005",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58439497900",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58439497900",
+                            "ce:given-name": "Anh Q.",
+                            "ce:indexed-name": "Nguyen A.Q.",
+                            "ce:initials": "A.Q.",
+                            "ce:surname": "Nguyen",
+                            "preferred-name": {
+                                "ce:given-name": "Anh Q.",
+                                "ce:indexed-name": "Nguyen A.Q.",
+                                "ce:initials": "A.Q.",
+                                "ce:surname": "Nguyen"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85171427705",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "Sorption of oxytetracycline to microsized colloids under concentrated salt solution: A perspective on terrestrial-to-ocean transfer of antibiotics",
+                "eid": "2-s2.0-85171427705",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171427705",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171427705&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85171427705&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "pii": "S0048969723056309",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-20",
+                "prism:doi": "10.1016/j.scitotenv.2023.167005",
+                "prism:issn": "18791026 00489697",
+                "prism:publicationName": "Science of the Total Environment",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85171427705",
+                "prism:volume": "905",
+                "pubmed-id": "37717773",
+                "source-id": "25349",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Da Nang",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Duy Tan University"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Ho Chi Minh City University of Education"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Saigon University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Voronezh",
+                    "affiliation-country": "Russian Federation",
+                    "affilname": "Voronezh State University"
+                },
+                {
+                    "affiliation-city": "Tbilisi",
+                    "affiliation-country": "Georgia",
+                    "affilname": "Teaching University Geomedi"
+                }
+            ],
+            "coredata": {
+                "article-number": "e202303386",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58154984300",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113434",
+                                "@id": "60113434"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58154984300",
+                            "ce:degrees": "Dr.",
+                            "ce:given-name": "Nguyen",
+                            "ce:indexed-name": "Anh Tien N.",
+                            "ce:initials": "N.",
+                            "ce:surname": "Anh Tien",
+                            "preferred-name": {
+                                "ce:given-name": "Nguyen",
+                                "ce:indexed-name": "Anh Tien N.",
+                                "ce:initials": "N.",
+                                "ce:surname": "Anh Tien"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85179323687",
+                "dc:publisher": "John Wiley and Sons Inc",
+                "dc:title": "Structural, Optical, and Magnetic Properties of o-TbFeO3 Nanomaterials Synthesized by the co-Precipitation Method",
+                "eid": "2-s2.0-85179323687",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85179323687",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85179323687&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85179323687&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-18",
+                "prism:doi": "10.1002/slct.202303386",
+                "prism:issn": "23656549",
+                "prism:issueIdentifier": "47",
+                "prism:publicationName": "ChemistrySelect",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85179323687",
+                "prism:volume": "8",
+                "source-id": "21100850505",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Mining and Geology"
+                },
+                {
+                    "affiliation-city": "Haiphong",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Maritime University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Haiphong",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Tran Nguyen Han High School"
+                }
+            ],
+            "coredata": {
+                "article-number": "140948",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "56501232400",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60187514",
+                                "@id": "60187514"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/56501232400",
+                            "ce:given-name": "Thi Ha",
+                            "ce:indexed-name": "Tran T.H.",
+                            "ce:initials": "T.H.",
+                            "ce:surname": "Tran",
+                            "preferred-name": {
+                                "ce:given-name": "Thi Ha",
+                                "ce:indexed-name": "Tran T.H.",
+                                "ce:initials": "T.H.",
+                                "ce:surname": "Tran"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85177602510",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "Preparation of ZnO/Ag nanoflowers by hydrothermal assisted with galvanic effect and its surface enhanced Raman scattering activity",
+                "eid": "2-s2.0-85177602510",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85177602510",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85177602510&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85177602510&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "pii": "S000926142300653X",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-16",
+                "prism:doi": "10.1016/j.cplett.2023.140948",
+                "prism:issn": "00092614",
+                "prism:publicationName": "Chemical Physics Letters",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85177602510",
+                "prism:volume": "833",
+                "source-id": "26586",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Thang Long University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Posts and Telecoms Institute of Technology"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "55387247100",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107150117",
+                                "@id": "107150117"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/55387247100",
+                            "ce:given-name": "Hoang Trong",
+                            "ce:indexed-name": "Minh H.T.",
+                            "ce:initials": "H.T.",
+                            "ce:surname": "Minh",
+                            "preferred-name": {
+                                "ce:given-name": "Hoang Trong",
+                                "ce:indexed-name": "Minh H.T.",
+                                "ce:initials": "H.T.",
+                                "ce:surname": "Minh"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85179976769",
+                "dc:publisher": "Publishing House of Natural Science and Technology, VAST",
+                "dc:title": "A novel IDS system based on Hedge algebras to detect DDOS attacks in IoT systems",
+                "eid": "2-s2.0-85179976769",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85179976769",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85179976769&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85179976769&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-15",
+                "prism:doi": "10.15625/2525-2518/18233",
+                "prism:endingPage": "1101",
+                "prism:issn": "28155874 25252518",
+                "prism:issueIdentifier": "6",
+                "prism:pageRange": "1089-1101",
+                "prism:publicationName": "Vietnam Journal of Science and Technology",
+                "prism:startingPage": "1089",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85179976769",
+                "prism:volume": "61",
+                "source-id": "21101101853",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        }
+    ]
+}

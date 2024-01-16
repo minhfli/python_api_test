@@ -1,0 +1,88 @@
+{
+    "hits": [
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1590/0104-1428.20230002",
+                "eissn": "1678-5169",
+                "issn": "0104-1428"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "conjugated polymer",
+                    "donor-acceptor polymer",
+                    "phenoxazine",
+                    "diketopyrrolopyrrole",
+                    "direct arylation polycondensation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000996400900001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000996400900001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000996400900001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Bui, Thao Thanh",
+                        "researcherId": "JLR-9448-2023",
+                        "wosStandard": "Bui, TT"
+                    },
+                    {
+                        "displayName": "Nguyen, Tam Huu",
+                        "researcherId": "JCU-5706-2023",
+                        "wosStandard": "Nguyen, TH"
+                    },
+                    {
+                        "displayName": "Doan, Bao Kim",
+                        "researcherId": "CMR-5927-2022",
+                        "wosStandard": "Doan, BK"
+                    },
+                    {
+                        "displayName": "Nguyen, Le-Thu Thi",
+                        "researcherId": "HZZ-6743-2023",
+                        "wosStandard": "Nguyen, LTT"
+                    },
+                    {
+                        "displayName": "Tran, Chau Duc",
+                        "researcherId": "GIH-7765-2022",
+                        "wosStandard": "Tran, CD"
+                    },
+                    {
+                        "displayName": "Nguyen, Ha Tran",
+                        "researcherId": "DIC-0104-2022",
+                        "wosStandard": "Nguyen, HT"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "e20230009",
+                "issue": "1",
+                "pages": {
+                    "count": 7
+                },
+                "publishYear": 2023,
+                "sourceTitle": "POLIMEROS-CIENCIA E TECNOLOGIA",
+                "volume": "33"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Phenoxazine and diketopyrrolopyrrole based donor-acceptor conjugated polymers: synthesis and optical properties",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000996400900001"
+        }
+    ],
+    "metadata": {
+        "limit": 50,
+        "page": 1,
+        "total": 1
+    }
+}

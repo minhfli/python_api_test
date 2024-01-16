@@ -1,0 +1,446 @@
+{
+    "search-results": {
+        "entry": [
+            {
+                "abstracts-retrieval-response": {
+                    "affiliation": [
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam National University, Hanoi"
+                        },
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam Academy of Science and Technology"
+                        },
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "University of Transport and Communications"
+                        }
+                    ],
+                    "coredata": {
+                        "article-number": "111501",
+                        "citedby-count": "0",
+                        "dc:creator": {
+                            "author": [
+                                {
+                                    "@_fa": "true",
+                                    "@auid": "57825431900",
+                                    "@seq": "1",
+                                    "affiliation": [
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101818849",
+                                            "@id": "101818849"
+                                        },
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                            "@id": "60071364"
+                                        }
+                                    ],
+                                    "author-url": "https://api.elsevier.com/content/author/author_id/57825431900",
+                                    "ce:given-name": "Nguyen",
+                                    "ce:indexed-name": "Van Huong N.",
+                                    "ce:initials": "N.",
+                                    "ce:surname": "Van Huong",
+                                    "preferred-name": {
+                                        "ce:given-name": "Nguyen",
+                                        "ce:indexed-name": "Van Huong N.",
+                                        "ce:initials": "N.",
+                                        "ce:surname": "Van Huong"
+                                    }
+                                }
+                            ]
+                        },
+                        "dc:identifier": "SCOPUS_ID:85181085115",
+                        "dc:publisher": "Elsevier Ltd",
+                        "dc:title": "Nonlinear vibration analysis of a double curved shallow sandwich shell in which the core made of three-phase nanocomposite and the two-outer layer of electromagnetic materials",
+                        "eid": "2-s2.0-85181085115",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85181085115",
+                                "@rel": "self"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85181085115&origin=inward",
+                                "@rel": "scopus"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85181085115&origin=inward",
+                                "@rel": "scopus-citedby"
+                            }
+                        ],
+                        "openaccess": "0",
+                        "openaccessFlag": "false",
+                        "pii": "S0263823123009783",
+                        "prism:aggregationType": "Journal",
+                        "prism:coverDate": "2024-03-01",
+                        "prism:doi": "10.1016/j.tws.2023.111501",
+                        "prism:issn": "02638231",
+                        "prism:publicationName": "Thin-Walled Structures",
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85181085115",
+                        "prism:volume": "196",
+                        "source-id": "22094",
+                        "srctype": "j",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article"
+                    }
+                }
+            },
+            {
+                "abstracts-retrieval-response": {
+                    "affiliation": {
+                        "affiliation-city": "Hanoi",
+                        "affiliation-country": "Viet Nam",
+                        "affilname": "Vietnam National University, Hanoi"
+                    },
+                    "coredata": {
+                        "article-number": "105979",
+                        "citedby-count": "0",
+                        "dc:creator": {
+                            "author": [
+                                {
+                                    "@_fa": "true",
+                                    "@auid": "58777469000",
+                                    "@seq": "1",
+                                    "affiliation": {
+                                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                        "@id": "60071364"
+                                    },
+                                    "author-url": "https://api.elsevier.com/content/author/author_id/58777469000",
+                                    "ce:given-name": "Nhung H.",
+                                    "ce:indexed-name": "Do N.H.",
+                                    "ce:initials": "N.H.",
+                                    "ce:surname": "Do",
+                                    "preferred-name": {
+                                        "ce:given-name": "Nhung H.",
+                                        "ce:indexed-name": "Do N.H.",
+                                        "ce:initials": "N.H.",
+                                        "ce:surname": "Do"
+                                    }
+                                }
+                            ]
+                        },
+                        "dc:identifier": "SCOPUS_ID:85180522400",
+                        "dc:publisher": "Elsevier B.V.",
+                        "dc:title": "Nanosized spent coffee grounds can increase soil clay dispersibility",
+                        "eid": "2-s2.0-85180522400",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85180522400",
+                                "@rel": "self"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180522400&origin=inward",
+                                "@rel": "scopus"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85180522400&origin=inward",
+                                "@rel": "scopus-citedby"
+                            }
+                        ],
+                        "openaccess": "0",
+                        "openaccessFlag": "false",
+                        "pii": "S016719872300346X",
+                        "prism:aggregationType": "Journal",
+                        "prism:coverDate": "2024-03-01",
+                        "prism:doi": "10.1016/j.still.2023.105979",
+                        "prism:issn": "01671987",
+                        "prism:publicationName": "Soil and Tillage Research",
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85180522400",
+                        "prism:volume": "237",
+                        "source-id": "38003",
+                        "srctype": "j",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article"
+                    }
+                }
+            },
+            {
+                "abstracts-retrieval-response": {
+                    "affiliation": [
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam National University, Hanoi"
+                        },
+                        {
+                            "affiliation-city": "Pasadena",
+                            "affiliation-country": "United States",
+                            "affilname": "California Institute of Technology"
+                        },
+                        {
+                            "affiliation-city": "Ames",
+                            "affiliation-country": "United States",
+                            "affilname": "Iowa State University"
+                        }
+                    ],
+                    "coredata": {
+                        "article-number": "102427",
+                        "citedby-count": "0",
+                        "dc:creator": {
+                            "author": [
+                                {
+                                    "@_fa": "true",
+                                    "@auid": "58312768700",
+                                    "@seq": "1",
+                                    "affiliation": [
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                            "@id": "60071364"
+                                        },
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                            "@id": "60071364"
+                                        }
+                                    ],
+                                    "author-url": "https://api.elsevier.com/content/author/author_id/58312768700",
+                                    "ce:given-name": "Diem-My Thi",
+                                    "ce:indexed-name": "Nguyen D.-M.T.",
+                                    "ce:initials": "D.-M.T.",
+                                    "ce:surname": "Nguyen",
+                                    "preferred-name": {
+                                        "ce:given-name": "Diem My Thi",
+                                        "ce:indexed-name": "Nguyen D.M.T.",
+                                        "ce:initials": "D.M.T.",
+                                        "ce:surname": "Nguyen"
+                                    }
+                                }
+                            ]
+                        },
+                        "dc:identifier": "SCOPUS_ID:85180496309",
+                        "dc:publisher": "Elsevier B.V.",
+                        "dc:title": "Flood inundation assessment of UNESCO World Heritage Sites using remote sensing and spatial metrics in Hoi An City, Vietnam",
+                        "eid": "2-s2.0-85180496309",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85180496309",
+                                "@rel": "self"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180496309&origin=inward",
+                                "@rel": "scopus"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85180496309&origin=inward",
+                                "@rel": "scopus-citedby"
+                            }
+                        ],
+                        "openaccess": "0",
+                        "openaccessFlag": "false",
+                        "pii": "S1574954123004569",
+                        "prism:aggregationType": "Journal",
+                        "prism:coverDate": "2024-03-01",
+                        "prism:doi": "10.1016/j.ecoinf.2023.102427",
+                        "prism:issn": "15749541",
+                        "prism:publicationName": "Ecological Informatics",
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85180496309",
+                        "prism:volume": "79",
+                        "source-id": "3100147401",
+                        "srctype": "j",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article"
+                    }
+                }
+            },
+            {
+                "abstracts-retrieval-response": {
+                    "affiliation": [
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Ministry of Science and Technology, Vietnam"
+                        },
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam National University, Hanoi"
+                        },
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam Academy of Science and Technology"
+                        },
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Hanoi University of Science and Technology"
+                        }
+                    ],
+                    "coredata": {
+                        "article-number": "107619",
+                        "citedby-count": "0",
+                        "dc:creator": {
+                            "author": [
+                                {
+                                    "@_fa": "true",
+                                    "@auid": "57201378670",
+                                    "@seq": "1",
+                                    "affiliation": [
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                            "@id": "60071364"
+                                        },
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113724",
+                                            "@id": "60113724"
+                                        }
+                                    ],
+                                    "author-url": "https://api.elsevier.com/content/author/author_id/57201378670",
+                                    "ce:given-name": "Nga T.",
+                                    "ce:indexed-name": "Mai N.T.",
+                                    "ce:initials": "N.T.",
+                                    "ce:surname": "Mai",
+                                    "preferred-name": {
+                                        "ce:given-name": "Nga T.",
+                                        "ce:indexed-name": "Mai N.T.",
+                                        "ce:initials": "N.T.",
+                                        "ce:surname": "Mai"
+                                    }
+                                }
+                            ]
+                        },
+                        "dc:identifier": "SCOPUS_ID:85178377396",
+                        "dc:publisher": "Elsevier Ltd",
+                        "dc:title": "Towards cost-effective CO2 adsorption materials: Case of CuBTC - Hydrochar composite",
+                        "eid": "2-s2.0-85178377396",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85178377396",
+                                "@rel": "self"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85178377396&origin=inward",
+                                "@rel": "scopus"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85178377396&origin=inward",
+                                "@rel": "scopus-citedby"
+                            }
+                        ],
+                        "openaccess": "0",
+                        "openaccessFlag": "false",
+                        "pii": "S2352492823023103",
+                        "prism:aggregationType": "Journal",
+                        "prism:coverDate": "2024-03-01",
+                        "prism:doi": "10.1016/j.mtcomm.2023.107619",
+                        "prism:issn": "23524928",
+                        "prism:publicationName": "Materials Today Communications",
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85178377396",
+                        "prism:volume": "38",
+                        "source-id": "21100369777",
+                        "srctype": "j",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article"
+                    }
+                }
+            },
+            {
+                "abstracts-retrieval-response": {
+                    "affiliation": [
+                        {
+                            "affiliation-city": "Hanoi",
+                            "affiliation-country": "Viet Nam",
+                            "affilname": "Vietnam National University, Hanoi"
+                        },
+                        {
+                            "affiliation-city": "Orleans",
+                            "affiliation-country": "France",
+                            "affilname": "Universit\u00e9 d'Orl\u00e9ans"
+                        },
+                        {
+                            "affiliation-city": null,
+                            "affiliation-country": "France",
+                            "affilname": "Academic Institute of France"
+                        }
+                    ],
+                    "coredata": {
+                        "article-number": "109297",
+                        "citedby-count": "0",
+                        "dc:creator": {
+                            "author": [
+                                {
+                                    "@_fa": "true",
+                                    "@auid": "57194046453",
+                                    "@seq": "1",
+                                    "affiliation": [
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029689",
+                                            "@id": "60029689"
+                                        },
+                                        {
+                                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                            "@id": "60071364"
+                                        }
+                                    ],
+                                    "author-url": "https://api.elsevier.com/content/author/author_id/57194046453",
+                                    "ce:given-name": "Thanh Trung",
+                                    "ce:indexed-name": "Le T.T.",
+                                    "ce:initials": "T.T.",
+                                    "ce:surname": "Le",
+                                    "preferred-name": {
+                                        "ce:given-name": "Thanh Trung",
+                                        "ce:indexed-name": "Le T.T.",
+                                        "ce:initials": "T.T.",
+                                        "ce:surname": "Le"
+                                    }
+                                }
+                            ]
+                        },
+                        "dc:identifier": "SCOPUS_ID:85174802282",
+                        "dc:publisher": "Elsevier B.V.",
+                        "dc:title": "A novel recursive least-squares adaptive method for streaming tensor-train decomposition with incomplete observations",
+                        "eid": "2-s2.0-85174802282",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85174802282",
+                                "@rel": "self"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85174802282&origin=inward",
+                                "@rel": "scopus"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85174802282&origin=inward",
+                                "@rel": "scopus-citedby"
+                            }
+                        ],
+                        "openaccess": "2",
+                        "openaccessFlag": null,
+                        "pii": "S0165168423003717",
+                        "prism:aggregationType": "Journal",
+                        "prism:coverDate": "2024-03-01",
+                        "prism:doi": "10.1016/j.sigpro.2023.109297",
+                        "prism:issn": "01651684",
+                        "prism:publicationName": "Signal Processing",
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85174802282",
+                        "prism:volume": "216",
+                        "source-id": "25548",
+                        "srctype": "j",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article"
+                    }
+                }
+            }
+        ],
+        "opensearch:itemsPerPage": "5",
+        "opensearch:startIndex": "0",
+        "opensearch:totalResults": "1148"
+    }
+}

@@ -1,0 +1,3145 @@
+{
+    "hits": [
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.jnca.2023.103735",
+                "eissn": "1095-8592",
+                "issn": "1084-8045"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Deep neural network",
+                    "Gradient boosting",
+                    "Parallel ensemble learning",
+                    "Intrusion detection",
+                    "Traffic deep analysis",
+                    "Training dataset augmentation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088951200001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088951200001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088951200001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Vo, Hoang V.",
+                        "researcherId": "HRC-8699-2023",
+                        "wosStandard": "Vo, HV"
+                    },
+                    {
+                        "displayName": "Du, Hanh P.",
+                        "researcherId": "COM-1187-2022",
+                        "wosStandard": "Du, HP"
+                    },
+                    {
+                        "displayName": "Nguyen, Hoa N.",
+                        "researcherId": "DKC-7559-2022",
+                        "wosStandard": "Nguyen, HN"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "103735",
+                "pages": {
+                    "count": 14
+                },
+                "publishMonth": "NOV",
+                "publishYear": 2023,
+                "sourceTitle": "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS",
+                "volume": "220"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "AI-powered intrusion detection in large-scale traffic networks based on flow sensing strategy and parallel deep analysis",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:001088951200001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.jmaa.2023.127748",
+                "eissn": "1096-0813",
+                "issn": "0022-247X"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Erdos-Falconer distance problem",
+                    "Simplex",
+                    "Directions"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088764500001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088764500001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001088764500001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Pham, Thang",
+                        "researcherId": "HOK-6554-2023",
+                        "wosStandard": "Pham, T"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "127748",
+                "issue": "1",
+                "pages": {
+                    "count": 13
+                },
+                "publishMonth": "MAR 1",
+                "publishYear": 2024,
+                "sourceTitle": "JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS",
+                "volume": "531"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Group action and L2-norm estimates of geometric problems",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:001088764500001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/SSP53291.2023.10208036",
+                "eisbn": "978-1-6654-5245-8",
+                "issn": "2373-0803"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "malware classification",
+                    "hyperspheres",
+                    "machine learning"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001051091700121&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001051091700121&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001051091700121&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Trang, Nguyen Thi Thu",
+                        "researcherId": "HOV-8958-2023",
+                        "wosStandard": "Trang, NTT"
+                    },
+                    {
+                        "displayName": "Tho, Nguyen Dai",
+                        "researcherId": "CFY-0164-2022",
+                        "wosStandard": "Tho, ND"
+                    },
+                    {
+                        "displayName": "Kien, Hoang Dang",
+                        "researcherId": "JJL-8351-2023",
+                        "wosStandard": "Kien, HD"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "IEEE"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "596",
+                    "count": 5,
+                    "end": "600",
+                    "range": "596-600"
+                },
+                "publishYear": 2023,
+                "sourceTitle": "2023 IEEE STATISTICAL SIGNAL PROCESSING WORKSHOP, SSP"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "A New Method for Malware Classification Using Hyperspheres",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:001051091700121"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.jsamd.2023.100589",
+                "eissn": "2468-2179",
+                "issn": "2468-2284"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "CoPt",
+                    "L10 structure",
+                    "Magnetic nanoparticles",
+                    "Hard magnetic materials"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001021200800001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001021200800001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001021200800001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nam, Nguyen Hoang",
+                        "researcherId": "HSG-3007-2023",
+                        "wosStandard": "Nam, NH"
+                    },
+                    {
+                        "displayName": "Trung, Truong Thanh",
+                        "researcherId": "EAB-3462-2022",
+                        "wosStandard": "Trung, TT"
+                    },
+                    {
+                        "displayName": "Kien, Luu Manh",
+                        "researcherId": "FBN-8546-2022",
+                        "wosStandard": "Kien, LM"
+                    },
+                    {
+                        "displayName": "Hong, Tran Thi",
+                        "researcherId": "EZD-8289-2022",
+                        "wosStandard": "Hong, TT"
+                    },
+                    {
+                        "displayName": "Hai, Nguyen Hoang",
+                        "researcherId": "HFP-8909-2022",
+                        "wosStandard": "Hai, NH"
+                    },
+                    {
+                        "displayName": "Luong, Nguyen Hoang",
+                        "researcherId": "FNF-1290-2022",
+                        "wosStandard": "Luong, NH"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "100589",
+                "issue": "3",
+                "pages": {
+                    "count": 7
+                },
+                "publishMonth": "SEP",
+                "publishYear": 2023,
+                "sourceTitle": "JOURNAL OF SCIENCE-ADVANCED MATERIALS AND DEVICES",
+                "volume": "8"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Tunable magnetic properties of CoPt nanoparticles: Impacts of phase coexistence and thermal annealing",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:001021200800001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.31407/ijees12.419",
+                "issn": "2224-4980"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "disputes",
+                    "protect consumer interests",
+                    "conflicts of interest",
+                    "e-transactions",
+                    "Vietnam"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000883416300019&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000883416300019&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000883416300019&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Diep, Nguyen Trong",
+                        "researcherId": "GMD-0006-2022",
+                        "wosStandard": "Diep, NT"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "4",
+                "pages": {
+                    "begin": "161",
+                    "count": 6,
+                    "end": "166",
+                    "range": "161-166"
+                },
+                "publishMonth": "JUL-DEC",
+                "publishYear": 2022,
+                "sourceTitle": "INTERNATIONAL JOURNAL OF ECOSYSTEMS AND ECOLOGY SCIENCE-IJEES",
+                "volume": "12"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "SOLVING CONFLICTS OF INTEREST IN ELECTRONIC CONTRACTS IN E-COMMERCE TRANSACTIONS",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000883416300019"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1515/forum-2021-0245",
+                "eissn": "1435-5337",
+                "issn": "0933-7741"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Steenrod algebra",
+                    "Adams spectral sequences",
+                    "Singer transfer",
+                    "lambda algebra",
+                    "invariant theory",
+                    "Dickson algebra"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000846943600001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000846943600001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000846943600001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hung, Nguyen H., V",
+                        "researcherId": "CWK-6230-2022",
+                        "wosStandard": "Hung, NHV"
+                    },
+                    {
+                        "displayName": "Truong, Luu X.",
+                        "researcherId": "IQI-5005-2023",
+                        "wosStandard": "Truong, LX"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "6",
+                "pages": {
+                    "begin": "1433",
+                    "count": 30,
+                    "end": "1462",
+                    "range": "1433-1462"
+                },
+                "publishMonth": "NOV 1",
+                "publishYear": 2022,
+                "sourceTitle": "FORUM MATHEMATICUM",
+                "volume": "34"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "The Singer transfer for infinite real projective space",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000846943600001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.marpolbul.2022.113995",
+                "eissn": "1879-3363",
+                "issn": "0025-326X",
+                "pmid": "35939932"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Perfluoroalkyl substances",
+                    "Freshwater fish",
+                    "Marine fish",
+                    "Vietnam",
+                    "Risk assessment"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000841992500005&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000841992500005&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000841992500005&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Vi, Phung Thi",
+                        "researcherId": "ECP-9974-2022",
+                        "wosStandard": "Vi, PT"
+                    },
+                    {
+                        "displayName": "Ngoc, Nguyen Thuy",
+                        "researcherId": "DKY-6373-2022",
+                        "wosStandard": "Ngoc, NT"
+                    },
+                    {
+                        "displayName": "Quang, Phan Dinh",
+                        "researcherId": "FVM-8436-2022",
+                        "wosStandard": "Quang, PD"
+                    },
+                    {
+                        "displayName": "Dam, Nguyen Thanh",
+                        "researcherId": "Y-3504-2018",
+                        "wosStandard": "Dam, NT"
+                    },
+                    {
+                        "displayName": "Tue, Nguyen Minh",
+                        "researcherId": "HCO-9939-2022",
+                        "wosStandard": "Tue, NM"
+                    },
+                    {
+                        "displayName": "Tuyen, Le Huu",
+                        "researcherId": "GIC-8440-2022",
+                        "wosStandard": "Tuyen, L"
+                    },
+                    {
+                        "displayName": "Viet, Pham Hung",
+                        "researcherId": "DUU-6047-2022",
+                        "wosStandard": "Viet, PH"
+                    },
+                    {
+                        "displayName": "Anh, Duong Hong",
+                        "researcherId": "JME-3379-2023",
+                        "wosStandard": "Anh, DH"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "113995",
+                "pages": {
+                    "count": 8
+                },
+                "publishMonth": "SEP",
+                "publishYear": 2022,
+                "sourceTitle": "MARINE POLLUTION BULLETIN",
+                "volume": "182"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Perfluoroalkyl substances in freshwater and marine fish from northern Vietnam: Accumulation levels, profiles, and implications for human consumption",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000841992500005"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/ATC52653.2021.9598272",
+                "eisbn": "978-1-6654-3379-2",
+                "issn": "2162-1020"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "IoT malware",
+                    "Computer malware",
+                    "n-gram system call",
+                    "Open world classification"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000788323300048&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000788323300048&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000788323300048&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Kien Hoang Dang",
+                        "researcherId": "CML-3528-2022",
+                        "wosStandard": "Dang, KH"
+                    },
+                    {
+                        "displayName": "Dai Tho Nguyen",
+                        "researcherId": "FOC-7887-2022",
+                        "wosStandard": "Nguyen, DT"
+                    },
+                    {
+                        "displayName": "Thu Trang Nguyen Thi",
+                        "researcherId": "DWE-5204-2022",
+                        "wosStandard": "Thi, TTN"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "Bao, VNQ"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "254",
+                    "count": 6,
+                    "end": "259",
+                    "range": "254-259"
+                },
+                "publishYear": 2021,
+                "sourceTitle": "2021 INTERNATIONAL CONFERENCE ON ADVANCED TECHNOLOGIES FOR COMMUNICATIONS (ATC 2021)"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Efficient Incremental Instance-based Learning Algorithms for Open World Malware Classification",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000788323300048"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/SSD52085.2021.9429466",
+                "eisbn": "978-1-6654-1493-7",
+                "issn": "2474-0438"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Bluetooth Low Energy",
+                    "Trilateration",
+                    "Multilateration",
+                    "iBeacon",
+                    "Indoor Positioning System",
+                    "iOS"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000948032700155&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000948032700155&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000948032700155&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Ngoc-Son Duong",
+                        "researcherId": "ABA-6541-2021",
+                        "wosStandard": "Duong, NS"
+                    },
+                    {
+                        "displayName": "Thai-Mai Dinh",
+                        "researcherId": "GWF-7090-2022",
+                        "wosStandard": "Dinh, TM"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "IEEE"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "58",
+                    "count": 5,
+                    "end": "62",
+                    "range": "58-62"
+                },
+                "publishYear": 2021,
+                "sourceTitle": "2021 18TH INTERNATIONAL MULTI-CONFERENCE ON SYSTEMS, SIGNALS & DEVICES (SSD)"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "On the accuracy of iBeacon-based Indoor Positioning System in the iOS platform",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000948032700155"
+        },
+        {
+            "citations": [
+                {
+                    "count": 7,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1017/S0266078419000440",
+                "eissn": "1474-0567",
+                "issn": "0266-0784"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000647540700006&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000647540700006&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000647540700006&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Ngo, Xuan Minh",
+                        "researcherId": "B-9086-2019",
+                        "wosStandard": "Ngo, XM"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "PII S0266078419000440",
+                "issue": "2",
+                "pages": {
+                    "begin": "115",
+                    "count": 5,
+                    "end": "119",
+                    "range": "115-119"
+                },
+                "publishMonth": "JUN",
+                "publishYear": 2021,
+                "sourceTitle": "ENGLISH TODAY",
+                "volume": "37"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Vietnam's trillion-dong attempt to reform English education A laudable reform or a costly failure?",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000647540700006"
+        },
+        {
+            "citations": [
+                {
+                    "count": 15,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.comcom.2018.08.006",
+                "eissn": "1873-703X",
+                "issn": "0140-3664"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Routing",
+                    "Dedicated protection",
+                    "WDM optical networks",
+                    "Network coding",
+                    "Integer linear programming",
+                    "Bi-objective model"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000453619200006&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000453619200006&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000453619200006&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Dao Thanh Hai",
+                        "researcherId": "GAC-5164-2022",
+                        "wosStandard": "Hai, DT"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "51",
+                    "count": 8,
+                    "end": "58",
+                    "range": "51-58"
+                },
+                "publishMonth": "JAN",
+                "publishYear": 2019,
+                "sourceTitle": "COMPUTER COMMUNICATIONS",
+                "volume": "133"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "A Bi-objective integer linear programming model for the routing and network coding assignment problem in WDM optical networks with dedicated protection",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000453619200006"
+        },
+        {
+            "citations": [
+                {
+                    "count": 7,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1002/mma.4286",
+                "eissn": "1099-1476",
+                "issn": "0170-4214"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "equilibrium problem",
+                    "extragradient method",
+                    "hybrid method",
+                    "linesearch method",
+                    "parallel computation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000403477500016&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000403477500016&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000403477500016&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Dang Van Hieu",
+                        "researcherId": "S-7666-2019",
+                        "wosStandard": "Hieu, DV"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "11",
+                "pages": {
+                    "begin": "4065",
+                    "count": 15,
+                    "end": "4079",
+                    "range": "4065-4079"
+                },
+                "publishMonth": "JUL 30",
+                "publishYear": 2017,
+                "sourceTitle": "MATHEMATICAL METHODS IN THE APPLIED SCIENCES",
+                "volume": "40"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Hybrid projection methods for equilibrium problems with non-Lipschitz type bifunctions",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000403477500016"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eisbn": "978-1-934142-28-8",
+                "issn": "1559-9450"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000393225900433&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000393225900433&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000393225900433&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hoang Van Ngoc",
+                        "researcherId": "DKD-9822-2022",
+                        "wosStandard": "Ngoc, HV"
+                    },
+                    {
+                        "displayName": "Nguyen Vu Nhan",
+                        "researcherId": "FSK-9903-2022",
+                        "wosStandard": "Nhan, NV"
+                    },
+                    {
+                        "displayName": "Nguyen Quang Bau",
+                        "researcherId": "CGA-5133-2022",
+                        "wosStandard": "Bau, NQ"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "Electromagnet Acad"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "1945",
+                    "count": 4,
+                    "end": "1948",
+                    "range": "1945-1948"
+                },
+                "publishYear": 2014,
+                "sourceTitle": "PIERS 2014 GUANGZHOU: PROGRESS IN ELECTROMAGNETICS RESEARCH SYMPOSIUM"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Photostimulated Quantum Effects in Quantum Wire with a Parabolic Potential",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000393225900433"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eisbn": "978-1-4673-8929-7",
+                "issn": "2164-2508"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "speech perception",
+                    "relationship learning",
+                    "objects linking"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000390757200018&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000390757200018&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000390757200018&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "The Duy Bui",
+                        "researcherId": "EPM-4500-2022",
+                        "wosStandard": "Bui, TD"
+                    },
+                    {
+                        "displayName": "Quang Trung Nguyen",
+                        "researcherId": "JJU-3572-2023",
+                        "wosStandard": "Nguyen, QT"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "LeNguyen, M"
+                    },
+                    {
+                        "displayName": "Vinh, LS"
+                    },
+                    {
+                        "displayName": "Bui, LT"
+                    },
+                    {
+                        "displayName": "Nguyen, VG"
+                    },
+                    {
+                        "displayName": "Ong, YS"
+                    },
+                    {
+                        "displayName": "Hirata, K"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "103",
+                    "count": 6,
+                    "end": "108",
+                    "range": "103-108"
+                },
+                "publishYear": 2016,
+                "sourceTitle": "2016 EIGHTH INTERNATIONAL CONFERENCE ON KNOWLEDGE AND SYSTEMS ENGINEERING (KSE)"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Learning relationship between speech and image",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000390757200018"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eisbn": "978-1-4673-4642-9",
+                "issn": "1930-0395"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000379846100116&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000379846100116&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000379846100116&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hang Bui Thu",
+                        "researcherId": "FWG-2755-2022",
+                        "wosStandard": "Thu, HB"
+                    },
+                    {
+                        "displayName": "Trinh Chu Duc",
+                        "researcherId": "EWN-9268-2022",
+                        "wosStandard": "Duc, TC"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "IEEE"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "491",
+                    "count": 4,
+                    "end": "494",
+                    "range": "491-494"
+                },
+                "publishYear": 2013,
+                "sourceTitle": "2013 IEEE SENSORS"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Multilayer SAW device for flow rate sensing in a microfluidic channel",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000379846100116"
+        },
+        {
+            "citations": [
+                {
+                    "count": 4,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eisbn": "978-1-4673-6640-3"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "lnbnn",
+                    "sift",
+                    "speech perception",
+                    "speech classification"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380487700036&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380487700036&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380487700036&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Quang Trung Nguyen",
+                        "researcherId": "GXY-6188-2022",
+                        "wosStandard": "Trung, NQ"
+                    },
+                    {
+                        "displayName": "The Duy Bui",
+                        "researcherId": "COM-0168-2022",
+                        "wosStandard": "Duy, BT"
+                    },
+                    {
+                        "displayName": "Thi Chau Ma",
+                        "researcherId": "CIB-6352-2022",
+                        "wosStandard": "Chau, MT"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "Bao, VNQ"
+                    },
+                    {
+                        "displayName": "Dinh, NQ"
+                    },
+                    {
+                        "displayName": "Tu, TX"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "208",
+                    "count": 6,
+                    "end": "213",
+                    "range": "208-213"
+                },
+                "publishYear": 2015,
+                "sourceTitle": "PROCEEDINGS OF 2015 2ND NATIONAL FOUNDATION FOR SCIENCE AND TECHNOLOGY DEVELOPMENT CONFERENCE ON INFORMATION AND COMPUTER SCIENCE NICS 2015"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "An Image based Approach for Speech Perception",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000380487700036"
+        },
+        {
+            "citations": [
+                {
+                    "count": 28,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1177/1077546313489717",
+                "eissn": "1741-2986",
+                "issn": "1077-5463"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Classical plate theory (CPT)",
+                    "elastic foundation",
+                    "imperfection",
+                    "nonlinear dynamic response",
+                    "thin S-FGM plate"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000349328800002&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000349328800002&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000349328800002&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Dinh Duc",
+                        "researcherId": "J-2674-2019",
+                        "wosStandard": "Duc, ND"
+                    },
+                    {
+                        "displayName": "Pham Hong Cong",
+                        "researcherId": "AAD-4804-2020",
+                        "wosStandard": "Cong, PH"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "4",
+                "pages": {
+                    "begin": "637",
+                    "count": 10,
+                    "end": "646",
+                    "range": "637-646"
+                },
+                "publishMonth": "MAR",
+                "publishYear": 2015,
+                "sourceTitle": "JOURNAL OF VIBRATION AND CONTROL",
+                "volume": "21"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Nonlinear dynamic response of imperfect symmetric thin sigmoid-functionally graded material plate with metal-ceramic-metal layers on elastic foundation",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000349328800002"
+        },
+        {
+            "citations": [
+                {
+                    "count": 57,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.euromechsol.2014.02.005",
+                "eissn": "1873-7285",
+                "issn": "0997-7538"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Nonlinear response",
+                    "Eccentrically stiffened cylindrical panels",
+                    "Elastic foundations"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000335286600007&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000335286600007&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000335286600007&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Dinh Duc",
+                        "researcherId": "J-2674-2019",
+                        "wosStandard": "Duc, ND"
+                    },
+                    {
+                        "displayName": "Tran Quoc Quan",
+                        "researcherId": "DNG-7833-2022",
+                        "wosStandard": "Quan, TQ"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "60",
+                    "count": 12,
+                    "end": "71",
+                    "range": "60-71"
+                },
+                "publishMonth": "JUL-AUG",
+                "publishYear": 2014,
+                "sourceTitle": "EUROPEAN JOURNAL OF MECHANICS A-SOLIDS",
+                "volume": "46"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Nonlinear response of imperfect eccentrically stiffened FGM cylindrical panels on elastic foundation subjected to mechanical loads",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000335286600007"
+        },
+        {
+            "citations": [
+                {
+                    "count": 51,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.compstruct.2013.11.015",
+                "eissn": "1879-1085",
+                "issn": "0263-8223"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Nonlinear response",
+                    "S-FGM eccentrically stiffened circular cylindrical shells",
+                    "Imperfection",
+                    "Stress function",
+                    "Elastic foundation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000331772500020&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000331772500020&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000331772500020&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Dinh Duc",
+                        "researcherId": "J-2674-2019",
+                        "wosStandard": "Duc, ND"
+                    },
+                    {
+                        "displayName": "Pham Toan Thang",
+                        "researcherId": "AAP-1110-2021",
+                        "wosStandard": "Thang, PT"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "200",
+                    "count": 7,
+                    "end": "206",
+                    "range": "200-206"
+                },
+                "publishMonth": "APR",
+                "publishYear": 2014,
+                "sourceTitle": "COMPOSITE STRUCTURES",
+                "volume": "110"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Nonlinear response of imperfect eccentrically stiffened ceramic-metal-ceramic FGM thin circular cylindrical shells surrounded on elastic foundations and subjected to axial compression",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000331772500020"
+        },
+        {
+            "citations": [
+                {
+                    "count": 29,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.compstruct.2013.09.002",
+                "eissn": "1879-1085",
+                "issn": "0263-8223"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Stiffened truncated conical shell",
+                    "Stiffener",
+                    "Elastic medium",
+                    "Functionally graded material",
+                    "Critical buckling load"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329881500009&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329881500009&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329881500009&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Dao Van Dung",
+                        "researcherId": "CCC-7445-2022",
+                        "wosStandard": "Van Dung, D"
+                    },
+                    {
+                        "displayName": "Le Kha Hoa",
+                        "researcherId": "AAA-4035-2019",
+                        "wosStandard": "Hoa, LK"
+                    },
+                    {
+                        "displayName": "Nguyen Thi Nga",
+                        "researcherId": "IUK-9817-2023",
+                        "wosStandard": "Nga, NT"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "77",
+                    "count": 14,
+                    "end": "90",
+                    "range": "77-90"
+                },
+                "publishMonth": "FEB",
+                "publishYear": 2014,
+                "sourceTitle": "COMPOSITE STRUCTURES",
+                "volume": "108"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "On the stability of functionally graded truncated conical shells reinforced by functionally graded stiffeners and surrounded by an elastic medium",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000329881500009"
+        },
+        {
+            "citations": [
+                {
+                    "count": 5,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1504/IJNT.2013.053133",
+                "eissn": "1741-8151",
+                "issn": "1475-7435"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "nanocomposites",
+                    "magnetoelectric effect",
+                    "voltage induced magnetisation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000317400000008&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000317400000008&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000317400000008&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Thi Minh Hong",
+                        "researcherId": "EZZ-9759-2022",
+                        "wosStandard": "Hong, NTM"
+                    },
+                    {
+                        "displayName": "Nguyen Huu Duc",
+                        "researcherId": "P-8812-2019",
+                        "wosStandard": "Duc, NH"
+                    },
+                    {
+                        "displayName": "Pham Duc Thang",
+                        "researcherId": "DZT-3609-2022",
+                        "wosStandard": "Thang, PD"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "3-4",
+                "pages": {
+                    "begin": "206",
+                    "count": 8,
+                    "end": "213",
+                    "range": "206-213"
+                },
+                "publishYear": 2013,
+                "sourceTitle": "INTERNATIONAL JOURNAL OF NANOTECHNOLOGY",
+                "volume": "10"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Converse magnetoelectric effect in PZT/NiFe/CoFe nanocomposites",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000317400000008"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.commatsci.2010.05.014",
+                "eissn": "1879-0801",
+                "issn": "0927-0256"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "NMR",
+                    "Spin chain",
+                    "Ab initio",
+                    "Quantum",
+                    "Computer"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000285464800041&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000285464800041&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000285464800041&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hoang Nam Nhat",
+                        "researcherId": "FYU-5981-2022",
+                        "wosStandard": "Hoang, NN"
+                    },
+                    {
+                        "displayName": "Pham The Tan",
+                        "researcherId": "HOX-1538-2023",
+                        "wosStandard": "Pham, TT"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "4",
+                "pages": {
+                    "begin": "S341",
+                    "count": 7,
+                    "end": "S347",
+                    "range": "S341-S347"
+                },
+                "publishMonth": "OCT",
+                "publishYear": 2010,
+                "sourceTitle": "COMPUTATIONAL MATERIALS SCIENCE",
+                "supplement": "1",
+                "volume": "49"
+            },
+            "sourceTypes": [
+                "Article",
+                "Proceedings Paper"
+            ],
+            "title": "Nuclear magnetic resonance in one-dimensional spin chains",
+            "types": [
+                "Article",
+                "Meeting"
+            ],
+            "uid": "WOS:000285464800041"
+        },
+        {
+            "citations": [
+                {
+                    "count": 20,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.3938/jkps.54.765",
+                "issn": "0374-4884"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Nonlinear absorption",
+                    "Quantum wells"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000263371300039&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000263371300039&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000263371300039&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen, Ban Quang",
+                        "researcherId": "DHL-8366-2022",
+                        "wosStandard": "Nguyen, BQ"
+                    },
+                    {
+                        "displayName": "Do, Hung Manh",
+                        "researcherId": "EVU-7669-2022",
+                        "wosStandard": "Do, HM"
+                    },
+                    {
+                        "displayName": "Nguyen, Ngoc Bich",
+                        "researcherId": "HHZ-0886-2022",
+                        "wosStandard": "Nguyen, NB"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "2",
+                "pages": {
+                    "begin": "765",
+                    "count": 9,
+                    "end": "773",
+                    "range": "765-773"
+                },
+                "publishMonth": "FEB",
+                "publishYear": 2009,
+                "sourceTitle": "JOURNAL OF THE KOREAN PHYSICAL SOCIETY",
+                "volume": "54"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "The Nonlinear Absorption Coefficient of a Strong Electromagnetic Wave Caused by Confined Electrons in Quantum Wells",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000263371300039"
+        },
+        {
+            "citations": [
+                {
+                    "count": 4,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1142/S0217732395001411",
+                "issn": "0217-7323"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:A1995RG12100005&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:A1995RG12100005&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:A1995RG12100005&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "BANG, HH",
+                        "researcherId": "CFK-4076-2022",
+                        "wosStandard": "BANG, HH"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "18",
+                "pages": {
+                    "begin": "1293",
+                    "count": 6,
+                    "end": "1298",
+                    "range": "1293-1298"
+                },
+                "publishMonth": "JUN 14",
+                "publishYear": 1995,
+                "sourceTitle": "MODERN PHYSICS LETTERS A",
+                "volume": "10"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "SOME PHYSICAL CONSEQUENCES OF THE GENERAL DEFORMATIONS",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:A1995RG12100005"
+        },
+        {
+            "citations": [
+                {
+                    "count": 26,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.3938/jkps.52.1332",
+                "eissn": "1976-8524",
+                "issn": "0374-4884"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "magnetic nanoparticles",
+                    "magnetic fluids",
+                    "magnetite",
+                    "drug delivery",
+                    "biophysics"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000255905500003&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000255905500003&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000255905500003&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Thach, C. V.",
+                        "researcherId": "GEH-7537-2022",
+                        "wosStandard": "Thach, CV"
+                    },
+                    {
+                        "displayName": "Hai, N. H.",
+                        "researcherId": "DSJ-7676-2022",
+                        "wosStandard": "Hai, NH"
+                    },
+                    {
+                        "displayName": "Chau, N.",
+                        "researcherId": "ESG-9735-2022",
+                        "wosStandard": "Chau, N"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "5",
+                "pages": {
+                    "begin": "1332",
+                    "count": 4,
+                    "end": "1335",
+                    "range": "1332-1335"
+                },
+                "publishMonth": "MAY",
+                "publishYear": 2008,
+                "sourceTitle": "JOURNAL OF THE KOREAN PHYSICAL SOCIETY",
+                "volume": "52"
+            },
+            "sourceTypes": [
+                "Article",
+                "Proceedings Paper"
+            ],
+            "title": "Size controlled magnetite nanoparticles and their drug loading ability",
+            "types": [
+                "Article",
+                "Meeting"
+            ],
+            "uid": "WOS:000255905500003"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/LCOMM.2023.3303453",
+                "eissn": "1558-2558",
+                "issn": "1089-7798"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Channel estimation",
+                    "Millimeter wave communication",
+                    "MIMO communication",
+                    "Estimation",
+                    "Sensors",
+                    "Indexes",
+                    "Convergence",
+                    "5G positioning",
+                    "mmWave",
+                    "channel estimation",
+                    "MIMO",
+                    "golden-section search",
+                    "OMP",
+                    "TOA",
+                    "AOD",
+                    "AOA"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001099949300016&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001099949300016&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001099949300016&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Duong, Ngoc-Son",
+                        "researcherId": "JCV-7186-2023",
+                        "wosStandard": "Duong, NS"
+                    },
+                    {
+                        "displayName": "Nguyen, Quoc-Tuan",
+                        "researcherId": "JJU-0332-2023",
+                        "wosStandard": "Nguyen, QT"
+                    },
+                    {
+                        "displayName": "Dinh-Thi, Thai-Mai",
+                        "researcherId": "HXE-4038-2023",
+                        "wosStandard": "Dinh-Thi, TM"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "10",
+                "pages": {
+                    "begin": "2623",
+                    "count": 5,
+                    "end": "2627",
+                    "range": "2623-2627"
+                },
+                "publishMonth": "OCT",
+                "publishYear": 2023,
+                "sourceTitle": "IEEE COMMUNICATIONS LETTERS",
+                "volume": "27"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "OMP-Based Channel Estimation With Dynamic Grid for mmWave MIMO Positioning Systems",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:001099949300016"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "isbn": "978-0-7695-2930-1"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000250973100036&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000250973100036&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000250973100036&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Bui, Duy",
+                        "researcherId": "HNW-1068-2023",
+                        "wosStandard": "Bui, D"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "Ock, C"
+                    },
+                    {
+                        "displayName": "Byun, JY"
+                    },
+                    {
+                        "displayName": "DeBi, Y"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "206",
+                    "count": 6,
+                    "end": "211",
+                    "range": "206-211"
+                },
+                "publishYear": 2007,
+                "sourceTitle": "ALPIT 2007: PROCEEDINGS OF THE 6TH INTERNATIONAL CONFERENCE ON ADVANCED LANGUAGE PROCESSING AND WEB INFORMATION TECHNOLOGY"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Classifying online handwriting characters under cosine representation",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000250973100036"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.3390/rel14060720",
+                "eissn": "2077-1444"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Mother Goddess Worship Private Shrines",
+                    "Mother Goddess Worship Private Temples",
+                    "Di \u1ec7n th \u1edd M \u1eabu t \u01b0 gia",
+                    "Vietnamese Mother Goddess Worship and Buddhism",
+                    "D \u1ea1o M \u1eabu va D \u1ea1o Ph \u1eadt"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001018547600001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001018547600001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:001018547600001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen, Thu Huu",
+                        "researcherId": "IWI-1705-2023",
+                        "wosStandard": "Nguyen, TH"
+                    },
+                    {
+                        "displayName": "Nguyen, Linh Thi Thuy",
+                        "researcherId": "DUY-0643-2022",
+                        "wosStandard": "Nguyen, LTT"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "720",
+                "issue": "6",
+                "pages": {
+                    "count": 19
+                },
+                "publishMonth": "JUN",
+                "publishYear": 2023,
+                "sourceTitle": "RELIGIONS",
+                "volume": "14"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "The Phenomenon of Presenting and Worshipping Buddha(s) at the Mother Goddess Worship's <i>Di?n th? Tu gia</i> in Contemporary Vietnam",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:001018547600001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1504/IJSNET.2023.129632",
+                "eissn": "1748-1287",
+                "issn": "1748-1279"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Bluetooth low energy",
+                    "BLE",
+                    "lateration",
+                    "BLE beacon",
+                    "indoor positioning",
+                    "indoor localisation",
+                    "fingerprinting",
+                    "least square",
+                    "weighted least square",
+                    "neural network",
+                    "uncertainty propagation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000954355000001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000954355000001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000954355000001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Duong, Ngoc-Son",
+                        "researcherId": "ABA-6541-2021",
+                        "wosStandard": "Duong, NS"
+                    },
+                    {
+                        "displayName": "Nguyen, Thanh-Phuc",
+                        "researcherId": "ABD-7283-2021",
+                        "wosStandard": "Nguyen, TP"
+                    },
+                    {
+                        "displayName": "Nguyen, Quoc-Tuan",
+                        "researcherId": "GVY-2367-2022",
+                        "wosStandard": "Nguyen, QT"
+                    },
+                    {
+                        "displayName": "Dinh-Thi, Thai-Mai",
+                        "researcherId": "HXE-4038-2023",
+                        "wosStandard": "Dinh-Thi, TM"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "2",
+                "pages": {
+                    "begin": "67",
+                    "count": 12,
+                    "end": "77",
+                    "range": "67-77"
+                },
+                "publishYear": 2023,
+                "sourceTitle": "INTERNATIONAL JOURNAL OF SENSOR NETWORKS",
+                "volume": "41"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Improving indoor positioning system using weighted linear least square and neural network",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000954355000001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1558/lhs.19981",
+                "eissn": "1743-1662",
+                "issn": "1742-2906"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "TRANSLATION",
+                    "'AN INTRODUCTION TO FUNCTIONAL GRAMMAR'",
+                    "SECOND EDITION",
+                    "SYSTEMIC FUNCTIONAL LINGUISTICS",
+                    "ENGLISH",
+                    "VIETNAMESE"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000648315000003&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000648315000003&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000648315000003&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hoang Van Van",
+                        "researcherId": "IQE-7786-2023",
+                        "wosStandard": "Van, HV"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "1",
+                "pages": {
+                    "begin": "52",
+                    "count": 45,
+                    "end": "96",
+                    "range": "52-96"
+                },
+                "publishYear": 2021,
+                "sourceTitle": "LINGUISTICS AND THE HUMAN SCIENCES",
+                "volume": "15"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Systemic Functional Linguistics in Translation: The Case of Translating M. A. K. Halliday's <i>An</i> <i>Introduction</i> <i>to</i> <i>Functional</i> <i>Grammar</i>, <i>Second</i> <i>Edition</i>, from English into Vietnamese",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000648315000003"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1002/mma.9019",
+                "eissn": "1099-1476",
+                "issn": "0170-4214"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "convolution",
+                    "infinite order differential operators",
+                    "Legendre functions",
+                    "Mehler-Fock transform"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000907207500001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000907207500001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000907207500001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hoang, Pham Van",
+                        "researcherId": "GFT-9392-2022",
+                        "wosStandard": "Hoang, PV"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "8",
+                "pages": {
+                    "begin": "8816",
+                    "count": 15,
+                    "end": "8830",
+                    "range": "8816-8830"
+                },
+                "publishMonth": "MAY 30",
+                "publishYear": 2023,
+                "sourceTitle": "MATHEMATICAL METHODS IN THE APPLIED SCIENCES",
+                "volume": "46"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "The integro-differential operators of infinite order on the half line related to the Legendre operator",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000907207500001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eissn": "2237-8049",
+                "issn": "1983-3695"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Design-Thinking",
+                    "Tenis-table",
+                    "Method",
+                    "Student"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000899182100009&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000899182100009&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000899182100009&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Thi Thu",
+                        "researcherId": "HLX-1885-2023",
+                        "wosStandard": "Thu, NT"
+                    },
+                    {
+                        "displayName": "Nguyen Ngoc Minh",
+                        "researcherId": "GZN-1991-2022",
+                        "wosStandard": "Minh, NN"
+                    },
+                    {
+                        "displayName": "Phan Quoc Nguyen",
+                        "researcherId": "HKA-5602-2023",
+                        "wosStandard": "Nguyen, PQ"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "35",
+                "pages": {
+                    "begin": "119",
+                    "count": 12,
+                    "end": "130",
+                    "range": "119-130"
+                },
+                "publishMonth": "DEC",
+                "publishYear": 2022,
+                "sourceTitle": "CONHECIMENTO & DIVERSIDADE",
+                "volume": "14"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Application of design thinking to implement innovation policy in teaching table tennis for students - the case of Vietnam National University, Hanoi",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000899182100009"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1371/journal.pone.0264997",
+                "issn": "1932-6203",
+                "pmid": "35468138"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000794129600026&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000794129600026&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000794129600026&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Thi Vinh Ha Nguyen",
+                        "researcherId": "IMA-0527-2023",
+                        "wosStandard": "Ha Nguyen, TV"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "e0264997",
+                "issue": "4",
+                "pages": {
+                    "count": 20
+                },
+                "publishYear": 2022,
+                "sourceTitle": "PLOS ONE",
+                "volume": "17"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Welfare impact of climate change on capture fisheries in Vietnam",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000794129600026"
+        },
+        {
+            "citations": [
+                {
+                    "count": 2,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1080/09638199.2021.1990374",
+                "eissn": "1469-9559",
+                "issn": "0963-8199"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Regional integration",
+                    "preferential tariffs",
+                    "product quality",
+                    "production function estimation",
+                    "innovation"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000711347200001&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000711347200001&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000711347200001&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Tien Dzung",
+                        "researcherId": "DTV-5263-2022",
+                        "wosStandard": "Dzung, NT"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "4",
+                "pages": {
+                    "begin": "511",
+                    "count": 26,
+                    "end": "536",
+                    "range": "511-536"
+                },
+                "publishMonth": "MAY 19",
+                "publishYear": 2022,
+                "sourceTitle": "JOURNAL OF INTERNATIONAL TRADE & ECONOMIC DEVELOPMENT",
+                "volume": "31"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Regional integration and product quality upgrading: The case of Vietnam's manufacturing industries",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000711347200001"
+        },
+        {
+            "citations": [
+                {
+                    "count": 23,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.jmmm.2004.11.245",
+                "issn": "0304-8853"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "crystallization kinetics",
+                    "grain size",
+                    "nanocrystalline materials"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000228837900196&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000228837900196&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000228837900196&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Chau, N",
+                        "researcherId": "ESG-9735-2022",
+                        "wosStandard": "Chau, N"
+                    },
+                    {
+                        "displayName": "Hoa, NQ",
+                        "researcherId": "HVX-2968-2023",
+                        "wosStandard": "Hoa, NQ"
+                    },
+                    {
+                        "displayName": "Luong, NH",
+                        "researcherId": "FNF-1290-2022",
+                        "wosStandard": "Luong, NH"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "1547",
+                    "count": 4,
+                    "end": "1550",
+                    "range": "1547-1550"
+                },
+                "publishMonth": "APR",
+                "publishYear": 2005,
+                "sourceTitle": "JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS",
+                "specialIssue": "SI",
+                "volume": "290"
+            },
+            "sourceTypes": [
+                "Article",
+                "Proceedings Paper"
+            ],
+            "title": "The crystallization in Finemet with Cu substituted by Ag",
+            "types": [
+                "Article",
+                "Meeting"
+            ],
+            "uid": "WOS:000228837900196"
+        },
+        {
+            "citations": [
+                {
+                    "count": 10,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1175/JCLI-D-18-0453.1",
+                "eissn": "1520-0442",
+                "issn": "0894-8755"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Atmospheric circulation",
+                    "Large-scale motions",
+                    "Waves",
+                    "atmospheric"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000463599100002&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000463599100002&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000463599100002&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Bui Minh Tuan",
+                        "researcherId": "EBC-0023-2022",
+                        "wosStandard": "Tuan, BM"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "8",
+                "pages": {
+                    "begin": "2329",
+                    "count": 20,
+                    "end": "2348",
+                    "range": "2329-2348"
+                },
+                "publishMonth": "APR",
+                "publishYear": 2019,
+                "sourceTitle": "JOURNAL OF CLIMATE",
+                "volume": "32"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Extratropical Forcing of Submonthly Variations of Rainfall in Vietnam",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000463599100002"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1007/s13370-018-0614-0",
+                "eissn": "2190-7668",
+                "issn": "1012-9405"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Bilevel optimization",
+                    "Split equilibrium problem",
+                    "Strong convergence",
+                    "Jointly constrained",
+                    "Equilibrium model"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000452168000017&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000452168000017&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000452168000017&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Dang Xuan Son",
+                        "researcherId": "DRS-8192-2022",
+                        "wosStandard": "Son, DX"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "7-8",
+                "pages": {
+                    "begin": "1159",
+                    "count": 13,
+                    "end": "1171",
+                    "range": "1159-1171"
+                },
+                "publishMonth": "NOV",
+                "publishYear": 2018,
+                "sourceTitle": "AFRIKA MATEMATIKA",
+                "volume": "29"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "An algorithm for solving a class of bilevel split problems involving pseudomonotone equilibrium problem",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000452168000017"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "issn": "1738-3102"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000420331500011&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000420331500011&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000420331500011&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Le Van Canh",
+                        "researcherId": "ECI-7439-2022",
+                        "wosStandard": "Van Canh, L"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "2",
+                "pages": {
+                    "begin": "211",
+                    "count": 4,
+                    "end": "214",
+                    "range": "211-214"
+                },
+                "publishMonth": "SUM",
+                "publishYear": 2011,
+                "sourceTitle": "JOURNAL OF ASIA TEFL",
+                "volume": "8"
+            },
+            "sourceTypes": [
+                "Book Review"
+            ],
+            "title": "Nonnative Speaker English Teachers: Research, Pedagogy, and Professional Growth",
+            "types": [
+                "Review"
+            ],
+            "uid": "WOS:000420331500011"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1007/978-3-319-49073-1_23",
+                "eisbn": "978-3-319-49073-1",
+                "eissn": "2194-5365",
+                "isbn": "978-3-319-49072-4",
+                "issn": "2194-5357"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000404236200020&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000404236200020&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000404236200020&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Anh-Quy Hoang",
+                        "researcherId": "FBR-5088-2022",
+                        "wosStandard": "Hoang, AQ"
+                    },
+                    {
+                        "displayName": "Minh-Trien Pham",
+                        "researcherId": "GGE-7001-2022",
+                        "wosStandard": "Pham, MT"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "Akagi, M"
+                    },
+                    {
+                        "displayName": "Nguyen, TT"
+                    },
+                    {
+                        "displayName": "Vu, DT"
+                    },
+                    {
+                        "displayName": "Phung, TN"
+                    },
+                    {
+                        "displayName": "Huynh, VN"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "207",
+                    "count": 10,
+                    "end": "216",
+                    "range": "207-216"
+                },
+                "publishYear": 2017,
+                "sourceTitle": "ADVANCES IN INFORMATION AND COMMUNICATION TECHNOLOGY",
+                "volume": "538"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Comparing Modified PSO Algorithms for MRS in Unknown Environment Exploration",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000404236200020"
+        },
+        {
+            "citations": [
+                {
+                    "count": 8,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eissn": "2158-9674",
+                "issn": "2158-9666"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Vietnam mining",
+                    "Chinese miners",
+                    "Tay",
+                    "Zhuang",
+                    "Nng Van Van uprising",
+                    "border crossings",
+                    "Sino-Vietnamese border"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000215226700003&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000215226700003&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000215226700003&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Vu Duong Luan",
+                        "researcherId": "DVZ-7312-2022",
+                        "wosStandard": "Lu\u00e2n, VD"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "11",
+                "pages": {
+                    "begin": "31",
+                    "count": 28,
+                    "end": "58",
+                    "range": "31-58"
+                },
+                "publishMonth": "JUN",
+                "publishYear": 2014,
+                "sourceTitle": "CROSS-CURRENTS-EAST ASIAN HISTORY AND CULTURE REVIEW"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "The Politics of Frontier Mining: Local Chieftains, Chinese Miners, and Upland Society in the Nong Van Van Uprising in the Sino-Vietnamese Border Area (1833-1835)",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000215226700003"
+        },
+        {
+            "citations": [
+                {
+                    "count": 17,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eissn": "1735-8515",
+                "issn": "1017-060X"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Hybrid method",
+                    "parallel algorithm",
+                    "cyclic algorithm",
+                    "extra gradient method",
+                    "equilibrium problem"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000388592900014&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000388592900014&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000388592900014&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hieu, D. V.",
+                        "researcherId": "S-7666-2019",
+                        "wosStandard": "Hieu, DV"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "5",
+                "pages": {
+                    "begin": "1207",
+                    "count": 13,
+                    "end": "1219",
+                    "range": "1207-1219"
+                },
+                "publishMonth": "OCT",
+                "publishYear": 2016,
+                "sourceTitle": "BULLETIN OF THE IRANIAN MATHEMATICAL SOCIETY",
+                "volume": "42"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "COMMON SOLUTIONS TO PSEUDOMONOTONE EQUILIBRIUM PROBLEMS",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000388592900014"
+        },
+        {
+            "citations": [
+                {
+                    "count": 3,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "issn": "2454-7395"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Computer experiments",
+                    "Latin squares"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000437054800010&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000437054800010&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000437054800010&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nam-Ky Nguyen",
+                        "researcherId": "AAW-6881-2020",
+                        "wosStandard": "Nguyen, N"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "1-2",
+                "pages": {
+                    "begin": "119",
+                    "count": 5,
+                    "end": "123",
+                    "range": "119-123"
+                },
+                "publishYear": 2008,
+                "sourceTitle": "STATISTICS AND APPLICATIONS",
+                "specialIssue": "SI",
+                "volume": "6"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "A new class of orthogonal Latin hypercubes",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000437054800010"
+        },
+        {
+            "citations": [
+                {
+                    "count": 1,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "eisbn": "978-1-4799-8229-5"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Low power",
+                    "Network-on-Chip",
+                    "DVFS",
+                    "fuzzy logic"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380398700049&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380398700049&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000380398700049&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Hai-Phong Phan",
+                        "researcherId": "DLV-5987-2022",
+                        "wosStandard": "Phan, HP"
+                    },
+                    {
+                        "displayName": "Xuan-Tu Tran",
+                        "researcherId": "C-6070-2009",
+                        "wosStandard": "Tran, XT"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "IEEE"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "192",
+                    "count": 4,
+                    "end": "195",
+                    "range": "192-195"
+                },
+                "publishYear": 2015,
+                "sourceTitle": "2015 11TH CONFERENCE ON PH.D. RESEARCH IN MICROELECTRONICS AND ELECTRONICS (PRIME)"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "A Fuzzy-Logic based Voltage-Frequency Controller for Network-on-Chip Routers",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000380398700049"
+        },
+        {
+            "citations": [
+                {
+                    "count": 6,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/ITSC.2015.281",
+                "eisbn": "978-1-4673-6596-3",
+                "issn": "2153-0009"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000376668801127&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000376668801127&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000376668801127&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Duc-Thinh Pham",
+                        "researcherId": "AEL-8413-2022",
+                        "wosStandard": "Pham, DT"
+                    },
+                    {
+                        "displayName": "Bao An Mai Hoang",
+                        "researcherId": "CVA-9089-2022",
+                        "wosStandard": "Hoang, BAM"
+                    },
+                    {
+                        "displayName": "Nguyen, Son T.",
+                        "researcherId": "HQI-2126-2023",
+                        "wosStandard": "Nguyen, ST"
+                    },
+                    {
+                        "displayName": "Nguyen, Ha M.",
+                        "researcherId": "FNA-0886-2022",
+                        "wosStandard": "Nguyen, HM"
+                    },
+                    {
+                        "displayName": "Duong, Vu N.",
+                        "researcherId": "AGZ-1929-2022",
+                        "wosStandard": "Duong, VN"
+                    }
+                ],
+                "bookCorp": [
+                    {
+                        "displayName": "IEEE"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "1729",
+                    "count": 6,
+                    "end": "1734",
+                    "range": "1729-1734"
+                },
+                "publishYear": 2015,
+                "sourceTitle": "2015 IEEE 18TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "A Constructive Intelligent Transportation System for Urban Traffic Network in Developing Countries via GPS Data from Multiple Transportation Modes",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000376668801127"
+        },
+        {
+            "citations": [
+                {
+                    "count": 94,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1016/j.compstruct.2015.01.041",
+                "eissn": "1879-1085",
+                "issn": "0263-8223"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "Nonlinear dynamic analysis and vibration",
+                    "Piezoelectric FGM double curved shallow shells",
+                    "The higher order shear deformation theory",
+                    "Elastic foundations",
+                    "Electrical, thermal, mechanical and damping loads"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000353177600004&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000353177600004&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000353177600004&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nguyen Dinh Duc",
+                        "researcherId": "J-2674-2019",
+                        "wosStandard": "Duc, ND"
+                    },
+                    {
+                        "displayName": "Tran Quoc Quan",
+                        "researcherId": "DNG-7833-2022",
+                        "wosStandard": "Quan, TQ"
+                    },
+                    {
+                        "displayName": "Vu Dinh Luat",
+                        "researcherId": "FJB-1343-2022",
+                        "wosStandard": "Luat, VD"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "29",
+                    "count": 12,
+                    "end": "40",
+                    "range": "29-40"
+                },
+                "publishMonth": "JUL",
+                "publishYear": 2015,
+                "sourceTitle": "COMPOSITE STRUCTURES",
+                "volume": "125"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Nonlinear dynamic analysis and vibration of shear deformable piezoelectric FGM double curved shallow shells under damping-thermo-electro-mechanical loads",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000353177600004"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1109/TMAG.2014.2323857",
+                "eissn": "1941-0069",
+                "issn": "0018-9464"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000343033900002&DestLinkType=FullRecord&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Nam-Nhat Hoang",
+                        "researcherId": "FYU-5981-2022",
+                        "wosStandard": "Hoang, NN"
+                    }
+                ]
+            },
+            "source": {
+                "articleNumber": "0301201",
+                "issue": "6",
+                "pages": {
+                    "count": 1
+                },
+                "publishMonth": "JUN",
+                "publishYear": 2014,
+                "sourceTitle": "IEEE TRANSACTIONS ON MAGNETICS",
+                "volume": "50"
+            },
+            "sourceTypes": [
+                "Editorial Material"
+            ],
+            "title": "International Symposium on Frontiers in Materials Science 2013 Publication Chair's Preface",
+            "types": [
+                "Editorial material"
+            ],
+            "uid": "WOS:000343033900002"
+        },
+        {
+            "citations": [
+                {
+                    "count": 0,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1007/978-3-319-02741-8_35",
+                "eisbn": "978-3-319-02741-8",
+                "isbn": "978-3-319-02740-1",
+                "issn": "2194-5357"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329819100035&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329819100035&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000329819100035&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Anh-Hoang Truong",
+                        "researcherId": "EAC-1390-2022",
+                        "wosStandard": "Truong, AH"
+                    },
+                    {
+                        "displayName": "Huy-Vu Tran",
+                        "researcherId": "IHC-6527-2023",
+                        "wosStandard": "Tran, HV"
+                    },
+                    {
+                        "displayName": "Bao-Ngoc Nguyen",
+                        "researcherId": "HJE-8061-2022",
+                        "wosStandard": "Nguyen, BN"
+                    }
+                ],
+                "bookEditors": [
+                    {
+                        "displayName": "Huynh, VN"
+                    },
+                    {
+                        "displayName": "Denoeux, T"
+                    },
+                    {
+                        "displayName": "Tran, DH"
+                    },
+                    {
+                        "displayName": "Le, AC"
+                    },
+                    {
+                        "displayName": "Pham, SB"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "415",
+                    "count": 14,
+                    "end": "428",
+                    "range": "415-428"
+                },
+                "publishYear": 2014,
+                "sourceTitle": "KNOWLEDGE AND SYSTEMS ENGINEERING (KSE 2013), VOL 1",
+                "volume": "244"
+            },
+            "sourceTypes": [
+                "Proceedings Paper"
+            ],
+            "title": "Finding Round-Off Error Using Symbolic Execution",
+            "types": [
+                "Meeting"
+            ],
+            "uid": "WOS:000329819100035"
+        },
+        {
+            "citations": [
+                {
+                    "count": 13,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.2528/PIERL10030911",
+                "issn": "1937-6480"
+            },
+            "keywords": {
+                "authorKeywords": []
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000416509600020&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000416509600020&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000416509600020&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Bau, N. Q.",
+                        "researcherId": "CGA-5133-2022",
+                        "wosStandard": "Bau, NQ"
+                    },
+                    {
+                        "displayName": "Hung, D. M.",
+                        "researcherId": "FCA-0895-2022",
+                        "wosStandard": "Hung, DM"
+                    },
+                    {
+                        "displayName": "Hung, L. T.",
+                        "researcherId": "EZY-8418-2022",
+                        "wosStandard": "Hung, LT"
+                    }
+                ]
+            },
+            "source": {
+                "pages": {
+                    "begin": "175",
+                    "count": 11,
+                    "end": "185",
+                    "range": "175-185"
+                },
+                "publishYear": 2010,
+                "sourceTitle": "PROGRESS IN ELECTROMAGNETICS RESEARCH LETTERS",
+                "volume": "15"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "THE INFLUENCES OF CONFINED PHONONS ON THE NONLINEAR ABSORPTION COEFFICIENT OF A STRONG ELECTROMAGNETIC WAVE BY CONFINED ELECTRONS IN DOPING SUPERLATTICES",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000416509600020"
+        },
+        {
+            "citations": [
+                {
+                    "count": 19,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "issn": "0374-4884"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "doped semiconductor superlattics",
+                    "conductivity tensor",
+                    "absorption coefficient"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000176841900029&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000176841900029&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000176841900029&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Bau, NQ",
+                        "researcherId": "CGA-5133-2022",
+                        "wosStandard": "Bau, NQ"
+                    },
+                    {
+                        "displayName": "Nhan, NV",
+                        "researcherId": "FSK-9903-2022",
+                        "wosStandard": "Nhan, NV"
+                    },
+                    {
+                        "displayName": "Phong, TC",
+                        "researcherId": "AEZ-5991-2022",
+                        "wosStandard": "Phong, TC"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "1",
+                "pages": {
+                    "begin": "149",
+                    "count": 6,
+                    "end": "154",
+                    "range": "149-154"
+                },
+                "publishMonth": "JUL",
+                "publishYear": 2002,
+                "sourceTitle": "JOURNAL OF THE KOREAN PHYSICAL SOCIETY",
+                "volume": "41"
+            },
+            "sourceTypes": [
+                "Article"
+            ],
+            "title": "Calculations of the absorption coefficient of a weak electromagnetic wave by free carriers in doped superlattices by using the Kubo-Mori method",
+            "types": [
+                "Article"
+            ],
+            "uid": "WOS:000176841900029"
+        },
+        {
+            "citations": [
+                {
+                    "count": 14,
+                    "db": "WOK"
+                }
+            ],
+            "identifiers": {
+                "doi": "10.1023/A:1010622422561",
+                "issn": "0167-6369",
+                "pmid": "11516011"
+            },
+            "keywords": {
+                "authorKeywords": [
+                    "ammonium",
+                    "conductive polypyrrole",
+                    "ion selective electrode",
+                    "solid-contact sensor"
+                ]
+            },
+            "links": {
+                "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000169619100013&DestLinkType=FullRecord&DestApp=WOS",
+                "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000169619100013&DestLinkType=CitedReferences&DestApp=WOS",
+                "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=minhfli-001&SrcAuth=WosAPI&KeyUT=WOS:000169619100013&DestLinkType=RelatedRecords&DestApp=WOS"
+            },
+            "names": {
+                "authors": [
+                    {
+                        "displayName": "Quan, DP",
+                        "researcherId": "GBH-4842-2022",
+                        "wosStandard": "Quan, DP"
+                    },
+                    {
+                        "displayName": "Quang, CX",
+                        "researcherId": "J-6686-2019",
+                        "wosStandard": "Quang, CX"
+                    },
+                    {
+                        "displayName": "Duan, LT",
+                        "researcherId": "EVA-2851-2022",
+                        "wosStandard": "Duan, LT"
+                    },
+                    {
+                        "displayName": "Viet, PH",
+                        "researcherId": "C-8027-2017",
+                        "wosStandard": "Viet, PH"
+                    }
+                ]
+            },
+            "source": {
+                "issue": "1-2",
+                "pages": {
+                    "begin": "153",
+                    "count": 13,
+                    "end": "165",
+                    "range": "153-165"
+                },
+                "publishMonth": "JUL",
+                "publishYear": 2001,
+                "sourceTitle": "ENVIRONMENTAL MONITORING AND ASSESSMENT",
+                "volume": "70"
+            },
+            "sourceTypes": [
+                "Article",
+                "Proceedings Paper"
+            ],
+            "title": "A conductive polypyrrole based ammonium ion selective electrode",
+            "types": [
+                "Article",
+                "Meeting"
+            ],
+            "uid": "WOS:000169619100013"
+        }
+    ],
+    "metadata": {
+        "limit": 50,
+        "page": 1,
+        "total": 9517
+    }
+}
