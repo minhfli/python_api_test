@@ -1,7 +1,7 @@
 {
     "search-info": {
         "Total": "201",
-        "itemsPerPage": "5",
+        "itemsPerPage": "25",
         "startIndex": "0"
     },
     "search-results": [
@@ -436,6 +436,1784 @@
                 "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85179976769",
                 "prism:volume": "61",
                 "source-id": "21101101853",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Tuscaloosa",
+                    "affiliation-country": "United States",
+                    "affilname": "The University of Alabama"
+                },
+                {
+                    "affiliation-city": "College Station",
+                    "affiliation-country": "United States",
+                    "affilname": "Texas A&amp;M University"
+                },
+                {
+                    "affiliation-city": "Kingston",
+                    "affiliation-country": "United States",
+                    "affilname": "The University of Rhode Island"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "55541901500",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020547",
+                                "@id": "60020547"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/55541901500",
+                            "ce:given-name": "Alexandru",
+                            "ce:indexed-name": "Hening A.",
+                            "ce:initials": "A.",
+                            "ce:surname": "Hening",
+                            "preferred-name": {
+                                "ce:given-name": "Alexandru",
+                                "ce:indexed-name": "Hening A.",
+                                "ce:initials": "A.",
+                                "ce:surname": "Hening"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85171780997",
+                "dc:publisher": "Academic Press Inc.",
+                "dc:title": "Stochastic nutrient-plankton models",
+                "eid": "2-s2.0-85171780997",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171780997",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171780997&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85171780997&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "2",
+                "openaccessFlag": null,
+                "pii": "S002203962300551X",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-15",
+                "prism:doi": "10.1016/j.jde.2023.08.017",
+                "prism:endingPage": "405",
+                "prism:issn": "10902732 00220396",
+                "prism:pageRange": "370-405",
+                "prism:publicationName": "Journal of Differential Equations",
+                "prism:startingPage": "370",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85171780997",
+                "prism:volume": "376",
+                "source-id": "23874",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Academy of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Natural Resources and Environment"
+                },
+                {
+                    "affiliation-city": "Marne-la-Vallee",
+                    "affiliation-country": "France",
+                    "affilname": "Universit\u00e9 Gustave Eiffel"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Saigon University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnamese Academy of Science and Technology Institute of Mechanics"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Marseille",
+                    "affiliation-country": "France",
+                    "affilname": "Institut M\u00e9diterran\u00e9en d'Oc\u00e9anologie"
+                },
+                {
+                    "affiliation-city": "Viet Tri",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "PhuTho College of Medicine and Pharmacy"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Academy of Social Sciences"
+                }
+            ],
+            "coredata": {
+                "article-number": "166330",
+                "citedby-count": "3",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "18436463800",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071359",
+                                    "@id": "60071359"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071359",
+                                    "@id": "60071359"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/18436463800",
+                            "ce:given-name": "Thi Thuy",
+                            "ce:indexed-name": "Duong T.T.",
+                            "ce:initials": "T.T.",
+                            "ce:surname": "Duong",
+                            "preferred-name": {
+                                "ce:given-name": "Thi Thuy",
+                                "ce:indexed-name": "Duong T.T.",
+                                "ce:initials": "T.T.",
+                                "ce:surname": "Duong"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85168798058",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "Microplastics in sediments from urban and suburban rivers: Influence of sediment properties",
+                "eid": "2-s2.0-85168798058",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85168798058",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168798058&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85168798058&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "2",
+                "openaccessFlag": null,
+                "pii": "S0048969723049550",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-15",
+                "prism:doi": "10.1016/j.scitotenv.2023.166330",
+                "prism:issn": "18791026 00489697",
+                "prism:publicationName": "Science of the Total Environment",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85168798058",
+                "prism:volume": "904",
+                "pubmed-id": "37591389",
+                "source-id": "25349",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "VNU University of Economics and Business"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Phenikaa University"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "4",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57541419000",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199662",
+                                "@id": "60199662"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57541419000",
+                            "ce:given-name": "Thi Bich Thuy",
+                            "ce:indexed-name": "Dao T.B.T.",
+                            "ce:initials": "T.B.T.",
+                            "ce:surname": "Dao",
+                            "preferred-name": {
+                                "ce:given-name": "Thi Bich Thuy",
+                                "ce:indexed-name": "Dao T.B.T.",
+                                "ce:initials": "T.B.T.",
+                                "ce:surname": "Dao"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85126732658",
+                "dc:publisher": "Emerald Publishing",
+                "dc:title": "Does foreign direct investment stimulate the output growth of the formal economic sector in Vietnam: a subnational-level analysis",
+                "eid": "2-s2.0-85126732658",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85126732658",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85126732658&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85126732658&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-05",
+                "prism:doi": "10.1108/IJOEM-09-2021-1506",
+                "prism:endingPage": "5541",
+                "prism:issn": "17468817 17468809",
+                "prism:issueIdentifier": "11",
+                "prism:pageRange": "5523-5541",
+                "prism:publicationName": "International Journal of Emerging Markets",
+                "prism:startingPage": "5523",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85126732658",
+                "prism:volume": "18",
+                "source-id": "21100304262",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Thuyloi University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc S\u01b0 ph\u1ea1m H\u00e0 N\u1ed9i"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University of Agriculture"
+                },
+                {
+                    "affiliation-city": "Phu Tho",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hung Vuong University"
+                },
+                {
+                    "affiliation-city": "Phuc Yen City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi Pedagogical University 2"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58768367100",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126560811",
+                                "@id": "126560811"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58768367100",
+                            "ce:given-name": "Le Thi",
+                            "ce:indexed-name": "Man L.T.",
+                            "ce:initials": "L.T.",
+                            "ce:surname": "Man",
+                            "preferred-name": {
+                                "ce:given-name": "Le Thi",
+                                "ce:indexed-name": "Man L.T.",
+                                "ce:initials": "L.T.",
+                                "ce:surname": "Man"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85179961743",
+                "dc:publisher": "Hashemite University",
+                "dc:title": "Comprehensive Characterization and Expression Profiling of the GATA Transcription Factor in Sugar Beet (Beta vulgaris L.) Suggests Their Potential Roles in Taproot Development and Biotic Stress Response",
+                "eid": "2-s2.0-85179961743",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85179961743",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85179961743&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85179961743&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.54319/jjbs/160406",
+                "prism:endingPage": "619",
+                "prism:issn": "23077166 19956673",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "611-619",
+                "prism:publicationName": "Jordan Journal of Biological Sciences",
+                "prism:startingPage": "611",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85179961743",
+                "prism:volume": "16",
+                "source-id": "21100385604",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Le Quy Don Technical University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "AMST"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57203360355",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121871",
+                                "@id": "60121871"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57203360355",
+                            "ce:given-name": "The Hung",
+                            "ce:indexed-name": "Tran T.H.",
+                            "ce:initials": "T.H.",
+                            "ce:surname": "Tran",
+                            "preferred-name": {
+                                "ce:given-name": "The Hung",
+                                "ce:indexed-name": "Tran T.H.",
+                                "ce:initials": "T.H.",
+                                "ce:surname": "Tran"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85178945395",
+                "dc:publisher": "Korean Society of Mechanical Engineers",
+                "dc:title": "Aerodynamic drag of axisymmetric models with different boattail angles under subsonic and supersonic flow conditions",
+                "eid": "2-s2.0-85178945395",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85178945395",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85178945395&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85178945395&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1007/s12206-023-1124-z",
+                "prism:endingPage": "6535",
+                "prism:issn": "19763824 1738494X",
+                "prism:issueIdentifier": "12",
+                "prism:pageRange": "6523-6535",
+                "prism:publicationName": "Journal of Mechanical Science and Technology",
+                "prism:startingPage": "6523",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85178945395",
+                "prism:volume": "37",
+                "source-id": "144699",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi School of Business and Management"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Phenikaa University"
+                }
+            ],
+            "coredata": {
+                "article-number": "e22720",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58727865800",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199664",
+                                "@id": "60199664"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58727865800",
+                            "ce:given-name": "Duy-Thanh",
+                            "ce:indexed-name": "Nguyen D.-T.",
+                            "ce:initials": "D.-T.",
+                            "ce:surname": "Nguyen",
+                            "preferred-name": {
+                                "ce:given-name": "Duy Thanh",
+                                "ce:indexed-name": "Nguyen D.T.",
+                                "ce:initials": "D.T.",
+                                "ce:surname": "Nguyen"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85178132234",
+                "dc:publisher": "Elsevier Ltd",
+                "dc:title": "The mediating role of innovation in the relationship between high-performance human resource management practices and firm performance",
+                "eid": "2-s2.0-85178132234",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85178132234",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85178132234&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85178132234&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "pii": "S2405844023099280",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.heliyon.2023.e22720",
+                "prism:issn": "24058440",
+                "prism:issueIdentifier": "12",
+                "prism:publicationName": "Heliyon",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85178132234",
+                "prism:volume": "9",
+                "source-id": "21100411756",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Science and Technology"
+                }
+            ],
+            "coredata": {
+                "article-number": "116384",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "55785407400",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/55785407400",
+                            "ce:given-name": "Sang Quang",
+                            "ce:indexed-name": "Dinh S.Q.",
+                            "ce:initials": "S.Q.",
+                            "ce:surname": "Dinh",
+                            "preferred-name": {
+                                "ce:given-name": "Sang Quang",
+                                "ce:indexed-name": "Dinh S.Q.",
+                                "ce:initials": "S.Q.",
+                                "ce:surname": "Dinh"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85176283612",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "A model with vectorlike fermions and U(1)X symmetry: CKM unitarity, b\u202f\u2192\u202fs transitions, and prospect at Belle II",
+                "eid": "2-s2.0-85176283612",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85176283612",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85176283612&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85176283612&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "pii": "S0550321323003139",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.nuclphysb.2023.116384",
+                "prism:issn": "05503213",
+                "prism:publicationName": "Nuclear Physics B",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85176283612",
+                "prism:volume": "997",
+                "source-id": "29086",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi Medical University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "E Hospital"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National Institute of Ophthalmology"
+                }
+            ],
+            "coredata": {
+                "article-number": "100145",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58567620700",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                    "@id": "60071364"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071376",
+                                    "@id": "60071376"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58567620700",
+                            "ce:given-name": "Van Nga",
+                            "ce:indexed-name": "Vu V.N.",
+                            "ce:initials": "V.N.",
+                            "ce:surname": "Vu",
+                            "preferred-name": {
+                                "ce:given-name": "Van Nga",
+                                "ce:indexed-name": "Vu V.N.",
+                                "ce:initials": "V.N.",
+                                "ce:surname": "Vu"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85174350848",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "Risk factors related to diabetic retinopathy in Vietnamese patients with type 2 diabetes mellitus",
+                "eid": "2-s2.0-85174350848",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85174350848",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85174350848&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85174350848&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "pii": "S2666396123000225",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.endmts.2023.100145",
+                "prism:issn": "26663961",
+                "prism:publicationName": "Endocrine and Metabolic Science",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85174350848",
+                "prism:volume": "13",
+                "source-id": "21101079112",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Da Nang",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Duy Tan University"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Ho Chi Minh City University of Education"
+                },
+                {
+                    "affiliation-city": "Voronezh",
+                    "affiliation-country": "Russian Federation",
+                    "affilname": "Voronezh State University of Forestry and Technologies named after G.F. Morozov"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Saigon University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Voronezh",
+                    "affiliation-country": "Russian Federation",
+                    "affilname": "Voronezh State University"
+                },
+                {
+                    "affiliation-city": "Tbilisi",
+                    "affiliation-country": "Georgia",
+                    "affilname": "Teaching University Geomedi"
+                }
+            ],
+            "coredata": {
+                "article-number": "124377",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57985962800",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57985962800",
+                            "ce:given-name": "Tran Dinh",
+                            "ce:indexed-name": "Trinh T.D.",
+                            "ce:initials": "T.D.",
+                            "ce:surname": "Trinh",
+                            "preferred-name": {
+                                "ce:given-name": "Tran Dinh",
+                                "ce:indexed-name": "Trinh T.D.",
+                                "ce:initials": "T.D.",
+                                "ce:surname": "Trinh"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85173425108",
+                "dc:publisher": "Academic Press Inc.",
+                "dc:title": "Studying the influence of synthesis conditions on the magnetic properties of perovskite-like YbFeO3 nanomaterials",
+                "eid": "2-s2.0-85173425108",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85173425108",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85173425108&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85173425108&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "pii": "S0022459623005455",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.jssc.2023.124377",
+                "prism:issn": "1095726X 00224596",
+                "prism:publicationName": "Journal of Solid State Chemistry",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85173425108",
+                "prism:volume": "328",
+                "source-id": "26972",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": {
+                "affiliation-city": "Hanoi",
+                "affiliation-country": "Viet Nam",
+                "affilname": "VNU University of Economics and Business"
+            },
+            "coredata": {
+                "article-number": "119204",
+                "citedby-count": "2",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58605789700",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199662",
+                                "@id": "60199662"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58605789700",
+                            "ce:given-name": "Dinh Trung",
+                            "ce:indexed-name": "Nguyen D.T.",
+                            "ce:initials": "D.T.",
+                            "ce:surname": "Nguyen",
+                            "preferred-name": {
+                                "ce:given-name": "Dinh Trung",
+                                "ce:indexed-name": "Nguyen D.T.",
+                                "ce:initials": "D.T.",
+                                "ce:surname": "Nguyen"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85173189633",
+                "dc:publisher": "Academic Press",
+                "dc:title": "Does geopolitical risk hinder sustainable development goals? Evidence from a panel analysis",
+                "eid": "2-s2.0-85173189633",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85173189633",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85173189633&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85173189633&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "pii": "S0301479723019928",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.jenvman.2023.119204",
+                "prism:issn": "10958630 03014797",
+                "prism:publicationName": "Journal of Environmental Management",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85173189633",
+                "prism:volume": "347",
+                "pubmed-id": "37804634",
+                "source-id": "23371",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Academy of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnamese Academy of Science and Technology Institute of Chemistry"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "VAST"
+                }
+            ],
+            "coredata": {
+                "article-number": "140221",
+                "citedby-count": "1",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57204804923",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071359",
+                                    "@id": "60071359"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124343079",
+                                    "@id": "124343079"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57204804923",
+                            "ce:given-name": "Thanh-Thien",
+                            "ce:indexed-name": "Tran-Lam T.-T.",
+                            "ce:initials": "T.-T.",
+                            "ce:surname": "Tran-Lam",
+                            "preferred-name": {
+                                "ce:given-name": "Thanh Thien",
+                                "ce:indexed-name": "Tran-Lam T.T.",
+                                "ce:initials": "T.T.",
+                                "ce:surname": "Tran-Lam"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85173021682",
+                "dc:publisher": "Elsevier Ltd",
+                "dc:title": "Occurrence, biomagnification, and risk assessment of parabens and their metabolites in marine fish: The case study of Vietnam",
+                "eid": "2-s2.0-85173021682",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85173021682",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85173021682&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85173021682&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "pii": "S0045653523024918",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.chemosphere.2023.140221",
+                "prism:issn": "18791298 00456535",
+                "prism:publicationName": "Chemosphere",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85173021682",
+                "prism:volume": "344",
+                "pubmed-id": "37741370",
+                "source-id": "24657",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University of Forestry"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Science and Technology"
+                }
+            ],
+            "coredata": {
+                "article-number": "97",
+                "citedby-count": "1",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58619291300",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58619291300",
+                            "ce:given-name": "Trung Quang",
+                            "ce:indexed-name": "Do T.Q.",
+                            "ce:initials": "T.Q.",
+                            "ce:surname": "Do",
+                            "preferred-name": {
+                                "ce:given-name": "Trung Quang",
+                                "ce:indexed-name": "Do T.Q.",
+                                "ce:initials": "T.Q.",
+                                "ce:surname": "Do"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85172330594",
+                "dc:publisher": "Springer Science and Business Media Deutschland GmbH",
+                "dc:title": "Application of endophytic bacterium Bacillus velezensis BTR11 to control bacterial leaf blight disease and promote rice growth",
+                "eid": "2-s2.0-85172330594",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85172330594",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85172330594&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85172330594&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1186/s41938-023-00740-w",
+                "prism:issn": "25369342 11101768",
+                "prism:issueIdentifier": "1",
+                "prism:publicationName": "Egyptian Journal of Biological Pest Control",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85172330594",
+                "prism:volume": "33",
+                "source-id": "19700168908",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Academy of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Phenikaa University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnamese Academy of Science and Technology Institute of Materials Science"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                }
+            ],
+            "coredata": {
+                "article-number": "135054",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57217222228",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071372",
+                                "@id": "60071372"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57217222228",
+                            "ce:given-name": "Tran",
+                            "ce:indexed-name": "Van Hau T.",
+                            "ce:initials": "T.",
+                            "ce:surname": "Van Hau",
+                            "preferred-name": {
+                                "ce:given-name": "Tran",
+                                "ce:indexed-name": "Van Hau T.",
+                                "ce:initials": "T.",
+                                "ce:surname": "Van Hau"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85171534835",
+                "dc:publisher": "Elsevier B.V.",
+                "dc:title": "Hexagonal boron nitride nanosheets reinforcing Ni-Mo alloy coating for improved wear resistance",
+                "eid": "2-s2.0-85171534835",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171534835",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171534835&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85171534835&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "pii": "S0167577X23012399",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.matlet.2023.135054",
+                "prism:issn": "18734979 0167577X",
+                "prism:publicationName": "Materials Letters",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85171534835",
+                "prism:volume": "352",
+                "source-id": "28697",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National Children's Hospital"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "LiveSpo Pharma Ltd. Company"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "ANABIO R&amp;D Ltd. Company"
+                }
+            ],
+            "coredata": {
+                "article-number": "14789",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57213415833",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071408",
+                                "@id": "60071408"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57213415833",
+                            "ce:given-name": "Tu Thanh",
+                            "ce:indexed-name": "Tran T.T.",
+                            "ce:initials": "T.T.",
+                            "ce:surname": "Tran",
+                            "preferred-name": {
+                                "ce:given-name": "Tu Thanh",
+                                "ce:indexed-name": "Tran T.T.",
+                                "ce:initials": "T.T.",
+                                "ce:surname": "Tran"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85170347889",
+                "dc:publisher": "Nature Research",
+                "dc:title": "Efficient symptomatic treatment and viral load reduction for children with influenza virus infection by nasal-spraying Bacillus spore probiotics",
+                "eid": "2-s2.0-85170347889",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85170347889",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85170347889&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85170347889&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1038/s41598-023-41763-5",
+                "prism:issn": "20452322",
+                "prism:issueIdentifier": "1",
+                "prism:publicationName": "Scientific Reports",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85170347889",
+                "prism:volume": "13",
+                "pubmed-id": "37684332",
+                "source-id": "21100200805",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Elverum",
+                    "affiliation-country": "Norway",
+                    "affilname": "H\u00f8gskolen i Innlandet"
+                },
+                {
+                    "affiliation-city": "Ho Chi Minh City",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "RMIT University Vietnam"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Hanoi University of Education"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "58559721900",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071427",
+                                    "@id": "60071427"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103809",
+                                    "@id": "60103809"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58559721900",
+                            "ce:degrees": "PhD Student",
+                            "ce:given-name": "Bich-Phuong",
+                            "ce:indexed-name": "Vu B.-P.",
+                            "ce:initials": "B.-P.",
+                            "ce:surname": "Vu",
+                            "preferred-name": {
+                                "ce:given-name": "Bich Phuong",
+                                "ce:indexed-name": "Vu B.P.",
+                                "ce:initials": "B.P.",
+                                "ce:surname": "Vu"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85169547587",
+                "dc:publisher": "Springer Science and Business Media Deutschland GmbH",
+                "dc:title": "Does Videoconferencing-Based Cognitive Behavioral Therapy for Anxious Youth Work? A Systematic Review of the Literature",
+                "eid": "2-s2.0-85169547587",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85169547587",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85169547587&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85169547587&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1007/s40501-023-00302-9",
+                "prism:endingPage": "533",
+                "prism:issn": "21963061",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "511-533",
+                "prism:publicationName": "Current Treatment Options in Psychiatry",
+                "prism:startingPage": "511",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85169547587",
+                "prism:volume": "10",
+                "source-id": "21100900600",
+                "srctype": "j",
+                "subtype": "re",
+                "subtypeDescription": "Review"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc S\u01b0 ph\u1ea1m H\u00e0 N\u1ed9i"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "1",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57560364300",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57560364300",
+                            "ce:given-name": "Anh Ngoc Thi",
+                            "ce:indexed-name": "Do A.N.T.",
+                            "ce:initials": "A.N.T.",
+                            "ce:surname": "Do",
+                            "preferred-name": {
+                                "ce:given-name": "Anh Ngoc Thi",
+                                "ce:indexed-name": "Do A.N.T.",
+                                "ce:initials": "A.N.T.",
+                                "ce:surname": "Do"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85169537105",
+                "dc:publisher": "Springer Science and Business Media B.V.",
+                "dc:title": "Application of deep learning in assessing the impact of flooding on the endangered freshwater fish Neolissochilus benasi (Cyprinidae) in a northern province of Vietnam",
+                "eid": "2-s2.0-85169537105",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85169537105",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85169537105&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85169537105&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1007/s10452-023-10056-4",
+                "prism:endingPage": "967",
+                "prism:issn": "15735125 13862588",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "951-967",
+                "prism:publicationName": "Aquatic Ecology",
+                "prism:startingPage": "951",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85169537105",
+                "prism:volume": "57",
+                "source-id": "13043",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Thu Dau Mot",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnamese-German University"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "University of Transport and Communications"
+                }
+            ],
+            "coredata": {
+                "article-number": "101779",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "55925039400",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/55925039400",
+                            "ce:given-name": "Dinh",
+                            "ce:indexed-name": "Dung D.",
+                            "ce:initials": "D.",
+                            "ce:surname": "D\u0169ng",
+                            "preferred-name": {
+                                "ce:given-name": "Dinh",
+                                "ce:indexed-name": "D\u0169ng D.",
+                                "ce:initials": "D.",
+                                "ce:surname": "D\u0169ng"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85162132036",
+                "dc:publisher": "Academic Press Inc.",
+                "dc:title": "Deep ReLU neural network approximation in Bochner spaces and applications to parametric PDEs",
+                "eid": "2-s2.0-85162132036",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85162132036",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85162132036&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85162132036&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "2",
+                "openaccessFlag": null,
+                "pii": "S0885064X23000481",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1016/j.jco.2023.101779",
+                "prism:issn": "10902708 0885064X",
+                "prism:publicationName": "Journal of Complexity",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85162132036",
+                "prism:volume": "79",
+                "source-id": "28500",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam Academy of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Taipei",
+                    "affiliation-country": "Taiwan",
+                    "affilname": "National Taiwan University of Science and Technology"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Ministry of Agriculture and Rural Development"
+                },
+                {
+                    "affiliation-city": "Son La",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Tay Bac University"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57193513024",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                    "@id": "60071364"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                    "@id": "60071364"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57193513024",
+                            "ce:given-name": "Tam Minh",
+                            "ce:indexed-name": "Pham T.M.",
+                            "ce:initials": "T.M.",
+                            "ce:surname": "Pham",
+                            "preferred-name": {
+                                "ce:given-name": "Tam Minh",
+                                "ce:indexed-name": "Pham T.M.",
+                                "ce:initials": "T.M.",
+                                "ce:surname": "Pham"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85159393796",
+                "dc:publisher": "Springer",
+                "dc:title": "Application of the Worldwide Bioclimatic Classification System to determine bioclimatic features and potential natural vegetation distribution in Van Chan district, Vietnam",
+                "eid": "2-s2.0-85159393796",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85159393796",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85159393796&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85159393796&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1007/s42965-023-00300-1",
+                "prism:endingPage": "780",
+                "prism:issn": "26618982 05643295",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "765-780",
+                "prism:publicationName": "Tropical Ecology",
+                "prism:startingPage": "765",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85159393796",
+                "prism:volume": "64",
+                "source-id": "17819",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        },
+        {
+            "affiliation": [
+                {
+                    "affiliation-city": "Washington, D.C.",
+                    "affiliation-country": "United States",
+                    "affilname": "The World Bank, USA"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Bloomington",
+                    "affiliation-country": "United States",
+                    "affilname": "Indiana University Bloomington"
+                },
+                {
+                    "affiliation-city": "Bonn",
+                    "affiliation-country": "Germany",
+                    "affilname": "Forschungsinstitut zur Zukunft der Arbeit"
+                },
+                {
+                    "affiliation-city": "London",
+                    "affiliation-country": "United Kingdom",
+                    "affilname": "United Kingdom"
+                }
+            ],
+            "coredata": {
+                "article-number": "146",
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "23975385700",
+                            "@seq": "1",
+                            "affiliation": [
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112834",
+                                    "@id": "60112834"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                    "@id": "60071364"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021121",
+                                    "@id": "60021121"
+                                },
+                                {
+                                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007893",
+                                    "@id": "60007893"
+                                }
+                            ],
+                            "author-url": "https://api.elsevier.com/content/author/author_id/23975385700",
+                            "ce:given-name": "Hai-Anh H.",
+                            "ce:indexed-name": "Dang H.-A.H.",
+                            "ce:initials": "H.-A.H.",
+                            "ce:surname": "Dang",
+                            "preferred-name": {
+                                "ce:given-name": "Hai Anh H.",
+                                "ce:indexed-name": "Dang H.A.H.",
+                                "ce:initials": "H.A.H.",
+                                "ce:surname": "Dang"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85150667909",
+                "dc:publisher": "Nature Research",
+                "dc:title": "Statistical performance indicators and index\u2014a new tool to measure country statistical capacity",
+                "eid": "2-s2.0-85150667909",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85150667909",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85150667909&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85150667909&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1038/s41597-023-01971-0",
+                "prism:issn": "20524463",
+                "prism:issueIdentifier": "1",
+                "prism:publicationName": "Scientific Data",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85150667909",
+                "prism:volume": "10",
+                "pubmed-id": "36941292",
+                "source-id": "21100451321",
+                "srctype": "j",
+                "subtype": "dp",
+                "subtypeDescription": "Data Paper"
+            }
+        },
+        {
+            "affiliation": {
+                "affiliation-city": "Hanoi",
+                "affiliation-country": "Viet Nam",
+                "affilname": "Vietnam National University, Hanoi"
+            },
+            "coredata": {
+                "citedby-count": "2",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@_fa": "true",
+                            "@auid": "57469830900",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+                                "@id": "60071364"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/57469830900",
+                            "ce:given-name": "Duy",
+                            "ce:indexed-name": "Hoang D.",
+                            "ce:initials": "D.",
+                            "ce:surname": "Hoang",
+                            "preferred-name": {
+                                "ce:given-name": "Duy",
+                                "ce:indexed-name": "Hoang D.",
+                                "ce:initials": "D.",
+                                "ce:surname": "Hoang"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85150460490",
+                "dc:publisher": "Springer Science and Business Media Deutschland GmbH",
+                "dc:title": "Adaptive cooperation of optimal linear quadratic regulator and lumped disturbance rejection estimator-based tracking control for robotic manipulators",
+                "eid": "2-s2.0-85150460490",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85150460490",
+                        "@rel": "self"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85150460490&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85150460490&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "0",
+                "openaccessFlag": "false",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-01",
+                "prism:doi": "10.1007/s40435-023-01144-2",
+                "prism:endingPage": "2869",
+                "prism:issn": "21952698 2195268X",
+                "prism:issueIdentifier": "6",
+                "prism:pageRange": "2856-2869",
+                "prism:publicationName": "International Journal of Dynamics and Control",
+                "prism:startingPage": "2856",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85150460490",
+                "prism:volume": "11",
+                "source-id": "21100463102",
                 "srctype": "j",
                 "subtype": "ar",
                 "subtypeDescription": "Article"
