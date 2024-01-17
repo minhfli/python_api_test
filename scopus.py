@@ -8,20 +8,22 @@ import time
 from tracemalloc import start
 from flask import request
 import requests
+import xml
+import xmltodict
 
 
 APIKEY='29cf4e9fcf07256282cdbe3a59dca2a6'
 header={
     'X-ELS-APIKey':APIKEY,
-    'Accept':'application/json'
+    'Accept':'application/xml'
 }
-max_item_count=25 # max number of items per request, can't be more than 25 (current service level)
+max_item_count=1 # max number of items per request, can't be more than 25 (current service level)
 start_index=0 # start index of the item in the search result
 
 base_url='https://api.elsevier.com/content/search/scopus?'
 abstract_url='https://api.elsevier.com/content/abstract/scopus_id/'
-author_url='https://api.elsevier.com/content/author/author_id/'
-affil_url='https://api.elsevier.com/content/affiliation/affiliation_id/'
+author_url='https://api.elsevier.com/content/author/'
+affil_url='https://api.elsevier.com/content/affiliation/'
 
 fulltext_url='https://api.elsevier.com/content/article/scopus_id/'
 
@@ -37,12 +39,20 @@ def format_query(input):
 def call_request(query):
     time.sleep(1)
     request=requests.get(query,headers=header)
+    
+    print('request limit:' + request.headers['X-RateLimit-Limit'])
+    print('request remaining:' + request.headers['X-RateLimit-Remaining'])
+    print('request reset:' + request.headers['X-RateLimit-Reset'])
     print('request: ' + query)
     if request.status_code != 200:
         print('Error' + str(request.status_code))
     else:
-        json_data=request.json()
-        return json_data
+        print('Success')
+        #if (request.json() is not None):
+            #return request.json()
+    xml_data=request.text
+    json_data=xmltodict.parse(xml_data)
+    return json_data
 
 def request_data_identifiers(request_data):
     identifiers={}
@@ -82,13 +92,13 @@ def request_data_source(request_data):
     return source
 
 def request_data_authors(request_data):
+    if isinstance(request_data['coredata']['dc:creator']['author'],dict):
+        request_data['coredata']['dc:creator']['author']=[request_data['coredata']['dc:creator']['author']]
     authors=[]
     for author in request_data['coredata']['dc:creator']['author']:
-        my_author=json.loads(json.dumps(author))
-        #print(auID)
-        #affil_info=call_request(author['affiliation']['@href'])
-        #my_author['affiliation']=affil_info
-        authors.append(my_author)
+        #my_author=json.loads(json.dumps(author))
+        # edit author data
+        authors.append(author)
     return authors
     
     
@@ -120,12 +130,10 @@ uet='affil(affilorg({VNU University of Engineering and Technology}))'
 query=base_url+ f'query=' +vnu
 query+=f'&start={start_index}&count={max_item_count}'
 
-inital_request=requests.get(query,headers=header)
-initial_json=inital_request.json()
+initial_json=call_request(query)
 
 abstract_data={}
 my_data={}
-
 
 if 'search-results'  in initial_json:
     abstract_data['search-results']=[]
@@ -135,15 +143,17 @@ if 'search-results'  in initial_json:
     abstract_data['search-info']['itemsPerPage']=initial_json['search-results']['opensearch:itemsPerPage']
 
     my_data=json.loads(json.dumps(abstract_data)) # deep copy
-    
+
+    if isinstance(initial_json['search-results']['entry'],dict):
+        initial_json['search-results']['entry']=[initial_json['search-results']['entry']]
+
     for item in initial_json['search-results']['entry']:
         scopus_id=item['dc:identifier'].split(':')[1]
-        query=abstract_url+scopus_id
+        query=abstract_url+scopus_id+f'?view=META'
         abstract_data_json=call_request(query)
-        abstract_data['search-results'].append(abstract_data_json['abstracts-retrieval-response'])
-    
-        my_data['search-results'].append(request_data_to_my_data(abstract_data_json['abstracts-retrieval-response']))
-        
+        print(json.dumps(abstract_data_json,indent=4,sort_keys=True))
+        #abstract_data['search-results'].append(abstract_data_json['abstracts-retrieval-response'])    
+        #my_data['search-results'].append(request_data_to_my_data(abstract_data_json['abstracts-retrieval-response']))
 
 with open('scopus_initial_data.json','w') as f:
     json.dump(initial_json,f,indent=4,sort_keys=True)
