@@ -151,9 +151,9 @@ if 'search-results'  in initial_json:
         scopus_id=item['dc:identifier'].split(':')[1]
         query=abstract_url+scopus_id+f'?view=META'
         abstract_data_json=call_request(query)
-        print(json.dumps(abstract_data_json,indent=4,sort_keys=True))
-        #abstract_data['search-results'].append(abstract_data_json['abstracts-retrieval-response'])    
-        #my_data['search-results'].append(request_data_to_my_data(abstract_data_json['abstracts-retrieval-response']))
+        #print(json.dumps(abstract_data_json,indent=4,sort_keys=True))
+        abstract_data['search-results'].append(abstract_data_json['abstracts-retrieval-response'])    
+        my_data['search-results'].append(request_data_to_my_data(abstract_data_json['abstracts-retrieval-response']))
 
 with open('scopus_initial_data.json','w') as f:
     json.dump(initial_json,f,indent=4,sort_keys=True)

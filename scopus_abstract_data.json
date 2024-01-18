@@ -4,5 +4,90 @@
         "itemsPerPage": "1",
         "startIndex": "0"
     },
-    "search-results": []
+    "search-results": [
+        {
+            "@xmlns": "http://www.elsevier.com/xml/svapi/abstract/dtd",
+            "@xmlns:ait": "http://www.elsevier.com/xml/ani/ait",
+            "@xmlns:ce": "http://www.elsevier.com/xml/ani/common",
+            "@xmlns:cto": "http://www.elsevier.com/xml/cto/dtd",
+            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+            "@xmlns:dn": "http://www.elsevier.com/xml/svapi/abstract/dtd",
+            "@xmlns:prism": "http://prismstandard.org/namespaces/basic/2.0/",
+            "@xmlns:xocs": "http://www.elsevier.com/xml/xocs/dtd",
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "affiliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Gateway International School"
+                }
+            ],
+            "coredata": {
+                "citedby-count": "0",
+                "dc:creator": {
+                    "author": [
+                        {
+                            "@auid": "58777680400",
+                            "@seq": "1",
+                            "affiliation": {
+                                "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121501240",
+                                "@id": "121501240"
+                            },
+                            "author-url": "https://api.elsevier.com/content/author/author_id/58777680400",
+                            "ce:given-name": "Tu",
+                            "ce:indexed-name": "Tran-Thi-Thanh T.",
+                            "ce:initials": "T.",
+                            "ce:surname": "Tran-Thi-Thanh",
+                            "preferred-name": {
+                                "ce:given-name": "Tu",
+                                "ce:indexed-name": "Tran-Thi-Thanh T.",
+                                "ce:initials": "T.",
+                                "ce:surname": "Tran-Thi-Thanh"
+                            }
+                        }
+                    ]
+                },
+                "dc:identifier": "SCOPUS_ID:85180440817",
+                "dc:publisher": "University of Economics and Human Sciences in Warsaw",
+                "dc:title": "Exploring the Mechanisms Underlying Firms\u2019 Intent to Adopt Circular Business Models",
+                "eid": "2-s2.0-85180440817",
+                "link": [
+                    {
+                        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85180440817",
+                        "@rel": "self"
+                    },
+                    {
+                        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                        "@rel": "scopus"
+                    },
+                    {
+                        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                        "@rel": "scopus-citedby"
+                    }
+                ],
+                "openaccess": "1",
+                "openaccessFlag": "true",
+                "prism:aggregationType": "Journal",
+                "prism:coverDate": "2023-12-31",
+                "prism:doi": "10.5709/ce.1897-9254.518",
+                "prism:endingPage": "405",
+                "prism:issn": "23008814 20840845",
+                "prism:issueIdentifier": "4",
+                "prism:pageRange": "389-405",
+                "prism:publicationName": "Contemporary Economics",
+                "prism:startingPage": "389",
+                "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85180440817",
+                "prism:volume": "17",
+                "source-id": "21100199108",
+                "srctype": "j",
+                "subtype": "ar",
+                "subtypeDescription": "Article"
+            }
+        }
+    ]
 }

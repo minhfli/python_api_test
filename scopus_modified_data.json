@@ -4,5 +4,77 @@
         "itemsPerPage": "1",
         "startIndex": "0"
     },
-    "search-results": []
+    "search-results": [
+        {
+            "ScopusID": "SCOPUS_ID:85180440817",
+            "affilliation": [
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Vietnam National University, Hanoi"
+                },
+                {
+                    "affiliation-city": "Hanoi",
+                    "affiliation-country": "Viet Nam",
+                    "affilname": "Gateway International School"
+                }
+            ],
+            "authors": [
+                {
+                    "@auid": "58777680400",
+                    "@seq": "1",
+                    "affiliation": {
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121501240",
+                        "@id": "121501240"
+                    },
+                    "author-url": "https://api.elsevier.com/content/author/author_id/58777680400",
+                    "ce:given-name": "Tu",
+                    "ce:indexed-name": "Tran-Thi-Thanh T.",
+                    "ce:initials": "T.",
+                    "ce:surname": "Tran-Thi-Thanh",
+                    "preferred-name": {
+                        "ce:given-name": "Tu",
+                        "ce:indexed-name": "Tran-Thi-Thanh T.",
+                        "ce:initials": "T.",
+                        "ce:surname": "Tran-Thi-Thanh"
+                    }
+                }
+            ],
+            "citationCount": "0",
+            "coverDate": "2023-12-31",
+            "docTitle": "Exploring the Mechanisms Underlying Firms\u2019 Intent to Adopt Circular Business Models",
+            "docType": "Article",
+            "identifiers": {
+                "DOI": "10.5709/ce.1897-9254.518",
+                "ISSN": "23008814 20840845",
+                "ScopusID": "SCOPUS_ID:85180440817",
+                "eid": "2-s2.0-85180440817"
+            },
+            "link": [
+                {
+                    "@href": "https://api.elsevier.com/content/abstract/scopus_id/85180440817",
+                    "@rel": "self"
+                },
+                {
+                    "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                    "@rel": "scopus"
+                },
+                {
+                    "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85180440817&origin=inward",
+                    "@rel": "scopus-citedby"
+                }
+            ],
+            "openaccess": "true",
+            "publisher": "University of Economics and Human Sciences in Warsaw",
+            "source": {
+                "Title": "Contemporary Economics",
+                "coverDate": "2023-12-31",
+                "issn": "23008814 20840845",
+                "issue": "4",
+                "pageRange": "389-405",
+                "type": "Journal",
+                "vol": "17"
+            }
+        }
+    ]
 }
