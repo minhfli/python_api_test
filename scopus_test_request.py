@@ -23,8 +23,6 @@ def call_request(query):
             #return request.json()
     return request
 
-max_item_count=1 # max number of items per request, can't be more than 25 (current service level)
-start_index=0 # start index of the item in the search result
 
 base_url='https://api.elsevier.com/content/search/scopus?'
 abstract_url='https://api.elsevier.com/content/abstract/scopus_id/'
